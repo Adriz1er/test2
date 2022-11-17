@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organisation/","dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/organisation/","dgShowLocalGraph":true}
 ---
 
 #🏷️ 
