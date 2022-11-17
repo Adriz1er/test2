@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":"gardenEntry","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/index/","tags":"gardenEntry","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 #🗺️/🌱
