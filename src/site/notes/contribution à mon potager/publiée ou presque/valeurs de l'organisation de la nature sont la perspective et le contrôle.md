@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/valeurs-de-l-organisation-de-la-nature-sont-la-perspective-et-le-controle/"}
+---
+
+#🌲  [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] [[nature\|nature]]
+
+---
+Sachant que la nature produit de la *vie*, alors on peut voir ses priorités. 
+*Littéralement* dans une forêt tout les arbres trouve leur place à la fois parmi les autres et à la fois celle qui leur est propre.
+Dans le groupe qu'on appelle la forêt, la nature ***développe constamment*** alors les valeurs principales sont la *perspective*, et le *controle* puisqu'on développe constamment qui apparaît d'autant plus avec la perspective  ^[[The Art of Productivity without Stress Tedx - Youtube](https://youtu.be/CHxhjDPKfbY)].
