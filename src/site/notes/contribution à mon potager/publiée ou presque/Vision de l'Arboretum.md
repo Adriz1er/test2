@@ -3,7 +3,7 @@
 ---
 
 ## Salut 👋, Je suis Adrien et voici mon Jardin Digital 🌱
-Bienvenue sur mon site, j'utilise mes notes pour *canaliser* mes pensées, et finissent majoritairement par *devenir* des concepts **authentiques**. 
+Bienvenue sur mon site, j'utilise mes notes pour *canaliser* mes pensées, et pour qu'elles puissent devenir des concepts **authentiques**. 
 
 Pour (re-)commencer, je vous conseille les principaux *groupements de concepts* suivants :
 - [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]]
