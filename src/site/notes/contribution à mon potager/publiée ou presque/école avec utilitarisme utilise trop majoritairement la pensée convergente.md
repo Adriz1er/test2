@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/ecole-avec-utilitarisme-utilise-trop-majoritairement-la-pensee-convergente/"}
 ---
 
-A cause de l'[[Commun 2/utilitarisme\|utilitarisme]] (sachant que la classe est un groupe avec [[Commun 2/utilitarisme\|utilitarisme]])  donc utiliser la [[contribution à mon potager/publiée ou presque/pensée convergente\|pensée convergente]] est ce qui se passe quand on *mesure* (oui c'est le cas plutôt que de trouver **quelle serait ?** la bonne solution (voir
+A cause de l'[[contribution à mon potager/publiée ou presque/utilitarisme\|utilitarisme]] (sachant que la classe est un groupe avec [[contribution à mon potager/publiée ou presque/utilitarisme\|utilitarisme]])  donc utiliser la [[contribution à mon potager/publiée ou presque/pensée convergente\|pensée convergente]] est ce qui se passe quand on *mesure* (oui c'est le cas plutôt que de trouver **quelle serait ?** la bonne solution (voir
 - [ ] pensée divergente
 ) .
 
