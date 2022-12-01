@@ -16,4 +16,4 @@ A noter : qu'on retrouve des moments de *défoulement* (principalement lors des 
 - [ ] pensée divergente
 
 ---
-#🌱  [[contribution à mon potager/publiée ou presque/problèmes que l'éducation national se doit de faire face\|problèmes que l'éducation national se doit de faire face]] [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]] 
+#🌱  [[contribution à mon potager/publiée ou presque/problèmes auquel l'éducation nationale se doit de faire face\|problèmes auquel l'éducation nationale se doit de faire face]] [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]] 
