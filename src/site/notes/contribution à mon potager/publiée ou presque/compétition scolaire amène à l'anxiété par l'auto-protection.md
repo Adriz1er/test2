@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/competition-scolaire-amene-a-l-anxiete-par-l-auto-protection/"}
 ---
 
-#🌲  [[contribution à mon potager/publiée ou presque/problèmes que l'éducation national se doit de faire face\|problèmes que l'éducation national se doit de faire face]]
+#🌲  [[contribution à mon potager/publiée ou presque/problèmes auquel l'éducation nationale se doit de faire face\|problèmes auquel l'éducation nationale se doit de faire face]]
 
 ---
 Sachant que [[contribution à mon potager/publiée ou presque/l'école amène à une rigueur élevée\|l'école amène à une rigueur élevée]], et  il y a une la **compétition** dans le système **Français** qui pousse à la auto-***protection*** de l'élève à travers un système de *note*^[[La compétition scolaire, pour quoi faire? \| Slate.fr](https://www.slate.fr/story/56713/dagnaud-ecole-competitivite)] à travers un [[contexte de notation]] (voir aussi [[on doit accepter le processus d'échec dans l'éducation national\|on doit accepter le processus d'échec dans l'éducation national]]). 
