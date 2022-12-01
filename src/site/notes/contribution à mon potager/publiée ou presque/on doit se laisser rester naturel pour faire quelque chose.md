@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/on-doit-se-laisser-rester-naturel-pour-faire-quelque-chose/"}
 ---
 
-#🌱 [[contribution à mon potager/publiée ou presque/problèmes que l'éducation national se doit de faire face\|problèmes que l'éducation national se doit de faire face]]
+#🌱 [[contribution à mon potager/publiée ou presque/problèmes auquel l'éducation nationale se doit de faire face\|problèmes auquel l'éducation nationale se doit de faire face]]
 
 ---
 Les choses selon ce modèle^[[Getting in control and creating space | David Allen | TEDxAmsterdam 2014 - YouTube](https://www.youtube.com/watch?v=kOSFxKaqOm4)] 
