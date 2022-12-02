@@ -9,6 +9,7 @@ A cause de l'[[contribution à mon potager/publiée ou presque/utilitarisme\|uti
 *Littéralement* dans certaines matières la [[contribution à mon potager/publiée ou presque/pensée convergente\|pensée convergente]] est ce qui est le plus utile (voir l'[[contribution à mon potager/publiée ou presque/école avec utilitarisme utilise trop majoritairement la pensée convergente\|école avec utilitarisme utilise trop majoritairement la pensée convergente]]), ce qui représente 95% du processus selon moi.
 
 - donc l'école se concentre sur des trucs reprochables
+Le fait que l'on fait des choses communes à l'école donc il ne peut en être autrement
 
 à noter que ça prend un caractère ennuyant si la [[contribution à mon potager/publiée ou presque/pensée convergente\|pensée convergente]] est utilisé plus que ce qu'il faudrait dans tel ou telle matière, et ça *handicape* si on utilise admettons 97% au lieu des 95% requis pour les [[Commun 2/Reste où il faut encore mettre des choses/Cours/Cours_maths\|Cours_maths]]. 
 
