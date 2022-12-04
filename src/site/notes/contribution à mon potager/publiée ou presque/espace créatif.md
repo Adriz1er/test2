@@ -11,7 +11,7 @@ Alors on peut voir un *espace créatif* est présent lors des tâches suivantes 
 - la tenue d'un journal, 
 - la pratique d'arts créatifs (par exemple [[contribution à mon potager/publiée ou presque/la musique pousse à maitriser sa pensée divergente\|la musique pousse à maitriser sa pensée divergente]]), 
 - les [jeux de rôles](https://fr.m.wikipedia.org/wiki/Jeu_de_r%C3%B4le "Jeu de rôle") sur [table](https://fr.m.wikipedia.org/wiki/Pens%C3%A9e_divergente#cite_note-4) 
-- et l'[écriture](https://fr.m.wikipedia.org/wiki/%C3%89criture_automatique "Écriture automatique") : dans ce dernier cas, le rédacteur se concentre sur un sujet particulier et écrira sans arrêt durant un court laps de temps en suivant *le fil de sa pensée.* (voir [[Commun 2/evergreen note\|evergreen note]])
+- et l'[écriture](https://fr.m.wikipedia.org/wiki/%C3%89criture_automatique "Écriture automatique") : dans ce dernier cas, le rédacteur se concentre sur un sujet particulier et écrira sans arrêt durant un court laps de temps en suivant *le fil de sa pensée.* (voir [[Commun 2/note persistante\|note persistante]])
 
 ---
 #🌲   [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]]
