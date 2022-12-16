@@ -5,8 +5,8 @@
 #🌲  [[productivité\|productivité]] [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]] [[école\|école]]
 
 ---
-Sachant que l'[[contribution à mon potager/publiée ou presque/école avec utilitarisme utilise trop majoritairement la pensée convergente\|école avec utilitarisme utilise trop majoritairement la pensée convergente]] alors on est amené à avoir une rigueur plus élevée aussi *parce qu'on est à l'école*.
+Sachant que l'[[contribution à mon potager/publiée ou presque/école utilise trop majoritairement la pensée convergente\|école utilise trop majoritairement la pensée convergente]] alors on est amené à avoir une rigueur plus élevée aussi *parce qu'on est à l'école*.
 
-Mais malheureusement une [[contribution à mon potager/publiée ou presque/école avec utilitarisme utilise trop majoritairement la pensée convergente\|école avec utilitarisme utilise trop majoritairement la pensée convergente]]
+Mais malheureusement une [[contribution à mon potager/publiée ou presque/école utilise trop majoritairement la pensée convergente\|école utilise trop majoritairement la pensée convergente]]
 
 
