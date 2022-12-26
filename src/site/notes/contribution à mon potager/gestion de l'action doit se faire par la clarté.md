@@ -59,8 +59,8 @@ Une fois que les tâches sont placées, les contextes identifient :
 Pour se concentrer sur ce qu'on peut réellement accomplir avec la situation actuelle (par exemple : ordinateur, accueil, bureau, appels)
 # Domaines d'action
 Consiste à **regrouper** les projets en fonction de nos **domaines d'action**, ce qui signifie pour les différents ***domaines de responsabilité*** ; pour attirer l'attention sur nos objectifs de vie tout en **décidant** sur quoi travailler *ensuite*. Si une tâche n'est pas dans le cadre d'un de nos domaines d'action, il est temps de faire le point.
-## Projets
-La plupart des tâches sont en fait des projets, car 
+## Projet
+La plupart des tâches sont en fait des projets, car on ne fait pas beaucoup de choses sans qu'il y ait une action *future* (voir [[Trier les tâches avec GTD#^1d28d6\|Trier les tâches avec GTD#^1d28d6]]) quoi puisse faire ensuite 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -85,7 +85,7 @@ Il faut rendre la tache **spécifique** et **exploitable**, donc ajouter des inf
 ; on devrait donc créer une ***nouvelle sous-liste*** pour chaque projet ^3db998
 
 ---
-[[Commun 2/GTD\|Commun 2/GTD]] [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]]
+[[Commun 2/GTD\|GTD]] [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]]
 
 </div></div>
 donc puisqu'on doit clarifié les choses (ce qui mène à quelque chose sans [[Commun 2/stress\|stress]]), alors on doit définir : 
