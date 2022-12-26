@@ -8,7 +8,7 @@ gérer ses engagements en utilisant GTD implique :
 3. avoir un *système* organisé de rappels d'action (voir [[Trier les tâches avec GTD\|Trier les tâches avec GTD]])
 mais aussi : 
 - les [[on doit clarifier les boucles ouvertes\|on doit clarifier les boucles ouvertes]].
-- les [[contribution à mon potager/"punaises" doivent être clarifiées\|"punaises" doivent être clarifiées]]
+- les [[contribution à mon potager/idées/punaises doivent être clarifiées\|punaises doivent être clarifiées]]
 
 ---
-#🌱  [[Commun 2/GTD\|Commun 2/GTD]] [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] [[@David Allen\|@David Allen]]
+#🌱  [[Commun 2/GTD\|GTD]] [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] [[@David Allen\|@David Allen]]
