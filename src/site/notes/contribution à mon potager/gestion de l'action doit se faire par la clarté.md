@@ -85,14 +85,14 @@ Il faut rendre la tache **spécifique** et **exploitable**, donc ajouter des inf
 ; on devrait donc créer une ***nouvelle sous-liste*** pour chaque projet ^3db998
 
 ---
-[[Commun 2/GTD\|GTD]] [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]]
+[[Commun 2/GTD\|GTD]] [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] #⚙️ 
 
 </div></div>
 donc puisqu'on doit clarifié les choses (ce qui mène à quelque chose sans [[Commun 2/stress\|stress]]), alors on doit définir : 
 1. le résultat du projet
 2. l'action à exécuter
 
-Cela amène à une *morale* : pour faire grand il faut maitriser son présent
+Cela amène à une *morale* : pour faire grand il faut maitriser son présent, c'est pourquoi il faut [[contribution à mon potager/publiée ou presque/assumer efficacement ses engagements internes avec GTD\|assumer efficacement ses engagements internes avec GTD]]
 
 ---
 #🌱 [[Commun 2/GTD\|Commun 2/GTD]] [[@David Allen\|@David Allen]]
