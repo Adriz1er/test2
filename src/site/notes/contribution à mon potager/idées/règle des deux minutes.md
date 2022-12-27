@@ -7,4 +7,4 @@ Elle consiste dans le fait que si une *tâche* prend **moins de deux minutes** e
 - la **reporter** en la déplaçant sur une *liste d'action* (pour la déplacer dans le système)
 
 ---
-[[Commun 2/GTD\|GTD]]
+[[Commun 2/GTD\|GTD]] #🌱 
