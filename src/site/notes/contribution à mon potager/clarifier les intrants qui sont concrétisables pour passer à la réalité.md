@@ -13,6 +13,7 @@ Cela crée des catégories que l'on va pouvoir gérer.
 il faut déterminer les deux points suivants : 
 1. Quels sont les **projets** dont vous vous occupez et quels sont les *résultats* auxquels vous vous êtes engagé ?
 2. Quelle est la ***prochaine action*** à executer ?
+parce que la [[contribution à mon potager/gestion de l'action doit se faire par la clarté\|gestion de l'action doit se faire par la clarté]]
 
 ---
 #🌱 [[Commun 2/GTD\|GTD]]
