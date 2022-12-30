@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/clarifier-les-intrants-qui-sont-concretisables-pour-passer-a-la-realite/"}
 ---
 
+## les intrants *concrétisables* 
+il faut déterminer les deux points suivants : 
+1. Quels sont les **projets** dont vous vous occupez et quels sont les *résultats* auxquels vous vous êtes engagé ?
+2. Quelle est la ***prochaine action*** à executer ?
+parce que la [[contribution à mon potager/gestion de l'action doit se faire par la clarté\|gestion de l'action doit se faire par la clarté]]
 ## les intrants *non concrétisables*
 donnent lieux à trois possibilités :
 1. C’est obsolète ou inutile : *poubelle* ! 
@@ -9,11 +14,6 @@ donnent lieux à trois possibilités :
 3. C’est une information potentiellement intéressante qui pourrait s’avérer utile un jour. (*référence*)
 
 Cela crée des catégories que l'on va pouvoir gérer.
-## les intrants *concrétisables* 
-il faut déterminer les deux points suivants : 
-1. Quels sont les **projets** dont vous vous occupez et quels sont les *résultats* auxquels vous vous êtes engagé ?
-2. Quelle est la ***prochaine action*** à executer ?
-parce que la [[contribution à mon potager/gestion de l'action doit se faire par la clarté\|gestion de l'action doit se faire par la clarté]]
 
 ---
 #🌱 [[Commun 2/GTD\|GTD]]
