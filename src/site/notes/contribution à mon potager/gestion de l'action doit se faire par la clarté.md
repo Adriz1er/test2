@@ -7,13 +7,14 @@ Le fait est que l'[[on doit clarifier les boucles ouvertes\|on doit clarifier le
 
 
 
+
 Trier les tâches se fait avec le fait de [[contribution à mon potager/filtrer et clarifier tâches de notre boîte de réception avec GTD\|filtrer et clarifier tâches de notre boîte de réception avec GTD]]. On peut voir ce qui fait les listes.
 ## Tâches ponctuelles
-taches qui prennent plus de 2 minutes, en une seule étape ; ces tâches n'appartiennent pas vraiment à un projet, c'est pourquoi il ne faut pas que ces tâches encombrent la boîte de réception.
-Il est suggéré de les mettre quelque part.
+taches qui prennent plus de 2 minutes (voir [[contribution à mon potager/idées/règle des deux minutes\|règle des deux minutes]]) , en une seule étape ; ces tâches n'appartiennent pas vraiment à un projet, c'est pourquoi il ne faut pas que ces tâches encombrent la boîte de réception.
+Il est suggéré de les mettre quelque part, je suggère alors de créer une liste à mettre dans le **même dossier** que la boîte de réception.
 ## Actions suivantes
 taches avec une action claire et concrètes, qu'on fera dès que possible. Il est suggéré de les tagger ^1d28d6
-## Tâches avec une date et/ou une heure d'échéance
+### Tâches avec une date et/ou une heure d'échéance
 On a :
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -37,8 +38,9 @@ Il faut rendre la tache **spécifique** et **exploitable**, donc ajouter des inf
 
 </div></div>
 GTD met en garde contre la dépendance excessive aux dates d'échéance, car elles doivent être planifiées ; ce qui marque une différence avec les actions suivantes ou l'examen hebdomadaire
-## Agenda de contact
-Pour gérer les éléments qui sont des rappels de choses que vous souhaitez aborder avec quelqu'un ; ce qui se distingue des actions suivantes. Une liste : agenda, une sous-liste : [pour chaque personne que l'on doit contacter régulièrement] ; on pourrait partager la sous-liste avec la personne correspondante.
+#### Agenda d'actions à un temps préçis
+Par exemple : pour gérer les éléments qui sont des rappels de choses que vous souhaitez aborder avec quelqu'un ; ce qui se distingue des actions suivantes. Une liste : agenda, une sous-liste : [pour chaque personne que l'on doit contacter régulièrement] ; on pourrait partager la sous-liste avec la personne correspondante.
+
 ## Documents de référence
 Des trucs à *sauvegarder*  (par exemple, des documents fiscaux, des lectures, des tableurs, des documents Word, des numéros de téléphone, etc.) sont souvent nécessaire pour les **tâches plus tard**. Nécessite de créer une liste de référence, une sous liste par type de *liste de références* (par exemple, _Idées de cadeaux_, _Anniversaires_, _Coordonnées_, _Recettes_, etc...)
 ## En attente
@@ -56,7 +58,7 @@ Une fois que les tâches sont placées, les contextes identifient :
 - les outils
 - les lieux
 - les personnes
-Pour se concentrer sur ce qu'on peut réellement accomplir avec la situation actuelle (par exemple : ordinateur, accueil, bureau, appels)
+Pour se concentrer sur ce qu'on peut accomplir avec les *limites* de la situation actuelle (par exemple : ordinateur, accueil, bureau, appels).
 # Domaines d'action
 Consiste à **regrouper** les projets en fonction de nos **domaines d'action**, ce qui signifie pour les différents ***domaines de responsabilité*** ; pour attirer l'attention sur nos objectifs de vie tout en **décidant** sur quoi travailler *ensuite*. Si une tâche n'est pas dans le cadre d'un de nos domaines d'action, il est temps de faire le point.
 ## Projet
@@ -85,7 +87,7 @@ Il faut rendre la tache **spécifique** et **exploitable**, donc ajouter des inf
 ; on devrait donc créer une ***nouvelle sous-liste*** pour chaque projet ^3db998
 
 ---
-[[Commun 2/GTD\|GTD]] [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] #⚙️ 
+[[Commun 2/GTD\|GTD]] #⚙️ 
 
 </div></div>
 donc puisqu'on doit clarifié les choses (ce qui mène à quelque chose sans [[Commun 2/stress\|stress]]), alors on doit définir : 
