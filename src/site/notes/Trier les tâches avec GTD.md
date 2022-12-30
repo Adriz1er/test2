@@ -52,7 +52,7 @@ Une fois que les tâches sont placées, les contextes identifient :
 - les outils
 - les lieux
 - les personnes
-Pour se concentrer sur ce qu'on peut réellement accomplir avec la situation actuelle (par exemple : ordinateur, accueil, bureau, appels)
+Pour se concentrer sur ce qu'on peut accomplir avec les *limites* de la situation actuelle (par exemple : ordinateur, accueil, bureau, appels).
 # Domaines d'action
 Consiste à **regrouper** les projets en fonction de nos **domaines d'action**, ce qui signifie pour les différents ***domaines de responsabilité*** ; pour attirer l'attention sur nos objectifs de vie tout en **décidant** sur quoi travailler *ensuite*. Si une tâche n'est pas dans le cadre d'un de nos domaines d'action, il est temps de faire le point.
 ## Projet
