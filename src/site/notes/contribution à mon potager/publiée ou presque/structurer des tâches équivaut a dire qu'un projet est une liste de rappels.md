@@ -2,44 +2,8 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/structurer-des-taches-equivaut-a-dire-qu-un-projet-est-une-liste-de-rappels/"}
 ---
 
-Pour rappel 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-## Projet
-La plupart des tâches sont en fait des projets, car on ne fait pas beaucoup de choses sans qu'il y ait une action *future* (voir [[Trier les tâches avec GTD#^1d28d6\|Trier les tâches avec GTD#^1d28d6]]) quoi puisse faire ensuite 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-Les actions concrètes de la méthode **GTD** sont :
-- Si l'élément prend moins de 2 minutes, le faire immédiatement.
-- S'il peut être délégué, attribuez la tâche à quelqu'un d'autre.
-- un élément de référence qu'on peut potentiellement doit être associé à un projet ou à une tache; en étant son commentaire ^c2beb5
-- Si l’élément doit être fait à une date et/ou à une heure spécifiques, donnez à la tâche une date d’échéance. ^31aac3
-- Si la tâche n'est plus nécessaire ou exploitable, supprimez-la.
-- Si une tâche nécessite plus d'une étape, créez un projet pour héberger tous les éléments qui lui sont associés ^9035ed
-	- identifiez l'action suivante que vous pouvez entreprendre pour faire avancer le projet.
-
-Il faut rendre la tache **spécifique** et **exploitable**, donc ajouter des informations ( ce qui fait gagner du temps) (voir aussi commentaires de tâche)
-	Par exemple, “Appeler maman” peut être *insuffisant*, saisissez plutôt “Appeler maman pour *discuter du dîner d'anniversaire*”. 
-
----
-[[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] [[Commun 2/GTD\|Commun 2/GTD]]
-[Getting Things Done : un guide pas à pas](https://todoist.com/fr/productivity-methods/getting-things-done#clarifier)
-
-</div></div>
-; on devrait donc créer une ***nouvelle sous-liste*** pour chaque projet ^3db998
-
----
-[[Commun 2/GTD\|GTD]] [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] #⚙️ 
-
-</div></div>
-
-Sachant que l'on doit [[contribution à mon potager/clarifier les intrants qui sont concrétisables pour passer à la réalité\|clarifier les intrants qui sont concrétisables pour passer à la réalité]], alors les listes de projets doivent être des listes où l'[[on doit clarifier les boucles ouvertes\|on doit clarifier les boucles ouvertes]] (et pas des *punaises* car les [[contribution à mon potager/publiée ou presque/punaises doivent être clarifiées\|punaises doivent être clarifiées]]) , cela revient à dire qu'un projet est une *liste de boucles ouvertes* donc de ***rappels***. 
-Ce qui est pour **non-utile à l'instant** *t*, doit donc être séparé (voir [[Trier les tâches avec GTD\|Trier les tâches avec GTD]]), et *peut* être trié parmi comme :
-
+D'après [[Trier les tâches avec GTD#Projet\|Trier les tâches avec GTD#Projet]] et sachant que l'on doit [[contribution à mon potager/clarifier les intrants qui sont concrétisables pour passer à la réalité\|clarifier les intrants qui sont concrétisables pour passer à la réalité]], alors les listes de projets doivent être des listes où l'[[on doit clarifier les boucles ouvertes\|on doit clarifier les boucles ouvertes]] (et pas des *punaises* car les [[contribution à mon potager/publiée ou presque/punaises doivent être clarifiées\|punaises doivent être clarifiées]]) , cela revient à dire qu'un projet est une *liste de boucles ouvertes* donc de ***rappels***. 
+Ce qui est pour **non-utile à l'instant** *t*, doit donc être séparé (voir [[Trier les tâches avec GTD\|Trier les tâches avec GTD]]), et *peut* être trié parmi comme 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
