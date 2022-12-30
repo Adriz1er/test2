@@ -16,6 +16,9 @@ donnent lieux à trois possibilités :
 
 Cela crée des catégories que l'on va pouvoir gérer.
 
+---
+#🌱 [[Commun 2/GTD\|GTD]]
+
 </div></div>
 
 De cette manière :
