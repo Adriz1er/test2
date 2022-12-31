@@ -20,6 +20,7 @@ On a :
 
 
 
+
 Les actions concrètes de la méthode **GTD** sont :
 - Si l'élément prend moins de 2 minutes, le faire immédiatement.
 - S'il peut être délégué, attribuez la tâche à quelqu'un d'autre.
@@ -64,6 +65,7 @@ Consiste à **regrouper** les projets en fonction de nos **domaines d'action**, 
 ## Projet
 La plupart des tâches sont en fait des projets, car on ne fait pas beaucoup de choses sans qu'il y ait une action *future* (voir [[Trier les tâches avec GTD#^1d28d6\|Trier les tâches avec GTD#^1d28d6]]) quoi puisse faire ensuite 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
