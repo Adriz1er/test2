@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/gestion-de-l-action-doit-se-faire-par-la-clarte/"}
 ---
 
-Le fait est que l'[[on doit clarifier les boucles ouvertes\|on doit clarifier les boucles ouvertes]], et le fait est que : 
+Le fait est que l'[[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]], et le fait est que : 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
