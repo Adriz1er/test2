@@ -7,6 +7,7 @@ Bienvenue sur mon site, j'utilise mes notes pour *canaliser* mes pensées, et po
 
 Pour (re-)commencer, je vous conseille les principaux *groupements de concepts* suivants :
 - [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]]
+	- et notamment mes notes sur la méthode [[Commun 2/GTD\|GTD]]
 - [[contribution à mon potager/idées/philo\|philo]]
 - [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]]
 - [[contribution à mon potager/publiée ou presque/problèmes auquels l'éducation nationale se doit de faire face\|problèmes auquels l'éducation nationale se doit de faire face]]
