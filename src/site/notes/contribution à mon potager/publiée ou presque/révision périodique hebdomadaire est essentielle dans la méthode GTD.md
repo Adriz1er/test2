@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/revision-periodique-hebdomadaire-est-essentielle-dans-la-methode-gtd/"}
 ---
 
-Puisque [[contribution à mon potager/publiée ou presque/structurer des tâches équivaut a dire qu'un projet est une liste de rappels\|structurer des tâches équivaut a dire qu'un projet est une liste de rappels]], alors on ne peut pas ne pas se permettre de mettre à jour les listes donc il faut faire une **révision périodique** de *tout* le système ; de sorte à ce qu'on passe **tout en revue** et que l'on puisse ***manoeuvrer*** (car cela décharge l'esprit). Concrétement puisque la [[contribution à mon potager/gestion de l'action doit se faire par la clarté\|gestion de l'action doit se faire par la clarté]]:
+Puisque [[contribution à mon potager/publiée ou presque/structurer les tâches d'un projet c'est faire une liste de rappels\|structurer les tâches d'un projet c'est faire une liste de rappels]], alors on ne peut pas ne pas se permettre de mettre à jour les listes donc il faut faire une **révision périodique** de *tout* le système ; de sorte à ce qu'on passe **tout en revue** et que l'on puisse ***manoeuvrer*** (car cela décharge l'esprit). Concrétement puisque la [[contribution à mon potager/gestion de l'action doit se faire par la clarté\|gestion de l'action doit se faire par la clarté]]:
 - collecter et traiter (voir [[contribution à mon potager/saisir ce qui est nouveau dans une boite de reception avec GTD\|saisir ce qui est nouveau dans une boite de reception avec GTD]] et [[contribution à mon potager/filtrer et clarifier tâches de notre boîte de réception avec GTD\|filtrer et clarifier tâches de notre boîte de réception avec GTD]])
 - revoir le système
 - mettre à jour les listes
