@@ -10,4 +10,4 @@ L'*incubation* peut donner une liste *un jour peut-être* (et des sous listes en
 De plus les *références* nécessite d'être stocké par thème et domaines (comme dans *mon cerveau digital* (voir *méthode Zettelkasten*)), ou par des fichiers *généraux* si c'est impossible.
 
 ---
-[[Commun 2/GTD\|GTD]] #🌲 [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]]
+[[Commun 2/GTD\|GTD]] #🌲 
