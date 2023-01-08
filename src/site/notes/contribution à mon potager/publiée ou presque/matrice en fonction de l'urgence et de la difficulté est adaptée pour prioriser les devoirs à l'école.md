@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/matrice-en-fonction-de-l-urgence-et-de-la-difficulte-est-adaptee-pour-prioriser-les-devoirs-a-l-ecole/"}
 ---
 
-#🌲  [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] [[contribution à mon potager/publiée ou presque/adaptation de la pression des cours de l'éducation national\|adaptation de la pression des cours de l'éducation national]]
+#🌲  [[contribution à mon potager/publiée ou presque/organisation\|organisation]] [[contribution à mon potager/publiée ou presque/adaptation de la pression des cours de l'éducation national\|adaptation de la pression des cours de l'éducation national]]
 
 ---
 Une *matrice* en fonction de l'***urgence*** et de la ***difficulté***^[[the definitive TIME MANAGEMENT GUIDE for busy but lazy people - YouTube](https://youtu.be/QzX9SG83U8k?t=594)] se présente comme ça :
