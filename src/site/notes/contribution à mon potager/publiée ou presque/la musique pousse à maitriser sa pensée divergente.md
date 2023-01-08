@@ -7,4 +7,4 @@ L'**idée** du compositeur est issue d'une [[contribution à mon potager/publié
 
 
 ---
-#🌲 [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]] [[musique\|musique]]
+#🌲 [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] [[musique\|musique]]
