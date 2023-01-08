@@ -8,4 +8,4 @@ Les idées issues de ce mode de pensée s'organisent grâce à la [[contribution
 On utilise souvent la [[contribution à mon potager/publiée ou presque/pensée divergente\|pensée divergente]] quand on pratique l'anticonformisme, la curiosité, la prise de risques, ou la persévérance ^f1fda5
 
 ---
-#🌲  **[Pensée divergente — Wikipédia](https://fr.m.wikipedia.org/wiki/Pens%C3%A9e_divergente)** [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]]
+#🌲  **[Pensée divergente — Wikipédia](https://fr.m.wikipedia.org/wiki/Pens%C3%A9e_divergente)** [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]]
