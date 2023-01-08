@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/raisons-de-l-organisation-de-la-nature-sont-la-perspective-et-le-controle/"}
 ---
 
-#🌲  [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] [[nature\|nature]]
+#🌲  [[contribution à mon potager/publiée ou presque/organisation\|organisation]] [[nature\|nature]]
 
 ---
 Sachant que la nature produit de la *vie*, alors on peut voir ses priorités. 
