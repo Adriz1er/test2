@@ -14,4 +14,4 @@ Alors on peut voir un *espace créatif* est présent lors des tâches suivantes 
 - et l'[écriture](https://fr.m.wikipedia.org/wiki/%C3%89criture_automatique "Écriture automatique") : dans ce dernier cas, le rédacteur se concentre sur un sujet particulier et écrira sans arrêt durant un court laps de temps en suivant *le fil de sa pensée.* (voir [[Commun 2/note persistante\|note persistante]])
 
 ---
-#🌲   [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]]
+#🌲   [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]]
