@@ -7,7 +7,7 @@ Les critères pour faire une action à chaud sont :
 - temps disponible
 - énergie disponible
 - priorité
-Le fait est que l'on se doit se concentrer c'est pourquoi il est important de *visualiser* ses objectifs, c'est pourquoi j'utilise ClickUp.
+Le fait est que l'on se doit se concentrer c'est pourquoi il est important de *visualiser* ses objectifs, c'est pourquoi j'utilise [[[[Clickup\|[[Clickup]]|[[Click\|Click]]Up]].
 
 ---
 #🌱 [[Commun 2/GTD\|GTD]]
