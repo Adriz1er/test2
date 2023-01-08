@@ -7,4 +7,4 @@ On peut alors remarquer que réagir de manière *détendue* nécessite d'avoir *
 Mais aussi que l'on peut parvenir plus vite à un résultat en utilisant son *propre* **aillant**, ce qui implique de la ***maitrise*** (voir [[contribution à mon potager/gestion de l'action doit se faire par la clarté\|gestion de l'action doit se faire par la clarté]]).
 
 ---
-[[Commun 2/GTD\|GTD]] [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] #🌱 [[@David Allen\|@David Allen]]
+[[Commun 2/GTD\|GTD]] #🌱 [[@David Allen\|@David Allen]]
