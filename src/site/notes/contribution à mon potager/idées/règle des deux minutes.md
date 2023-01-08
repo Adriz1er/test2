@@ -7,7 +7,7 @@ Elle consiste dans le fait que si une *tâche* prend **moins de deux minutes** e
 - la **reporter** en la déplaçant sur une *liste d'action* (pour la déplacer dans le système)
 
 Si une tâche *n'est pas* un projet (ou *associée* à un projet) et prend plus de 2 minutes, alors elle peut **encombrer** la boite de réception.
-Sur Clickup, je suggère alors de créer une liste (que l'on appellera "***tâches ponctuelles***") à mettre dans le **même dossier** que la boîte de réception (voir [[contribution à mon potager/saisir ce qui est nouveau dans une boite de reception avec GTD\|saisir ce qui est nouveau dans une boite de reception avec GTD]]).
+Sur [[Clickup\|Clickup]], je suggère alors de créer une liste (que l'on appellera "***tâches ponctuelles***") à mettre dans le **même dossier** que la boîte de réception (voir [[contribution à mon potager/saisir ce qui est nouveau dans une boite de reception avec GTD\|saisir ce qui est nouveau dans une boite de reception avec GTD]]).
 
 ---
 [[Commun 2/GTD\|GTD]] #🌲 
