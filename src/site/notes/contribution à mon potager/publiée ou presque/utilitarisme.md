@@ -16,4 +16,4 @@ L'utilitarisme se définit par le fait qu'on doit systématiquement **affecter**
 - [ ] machine à émotion ?
 
 ---
-[[contribution à mon potager/idées/philo\|philo]] #🌱 [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]]
+[[contribution à mon potager/idées/philo\|philo]] #🌱 [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]]
