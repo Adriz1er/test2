@@ -7,4 +7,4 @@ Par exemple on peut :
 - [[organiser les concepts mathématiques dans une structure organique\|organiser les concepts mathématiques dans une structure organique]]
 
 ---
-[[Zettelkasten\|Zettelkasten]] #🌲 [[contribution à mon potager/publiée ou presque/Organisation\|Organisation]]
+[[Zettelkasten\|Zettelkasten]] #🌲 [[contribution à mon potager/publiée ou presque/organisation\|organisation]]
