@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/autisme-a-toujours-du-mal-a-interagir-socialement-sans-ses-interets/"}
 ---
 
-#🌲  [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]]
+#🌲  [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]]
 
 ---
 Une personne avec [[Commun 2/autisme\|autisme]] a du mal avec ce qui n'est pas *rationnel*, à partir du moment où le *lien* ne s'explique pas (voir gestion difficile des émotions).
