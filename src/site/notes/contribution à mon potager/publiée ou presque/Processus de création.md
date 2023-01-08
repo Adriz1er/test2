@@ -11,4 +11,4 @@ Le processus de création se caractérise (du moins tel que nous le connaissons)
 On remarque l'utilisation de deux modes de penser successivement, et qu'ils sont nécessaires au processus de création. 
 
 ---
-#🌲 [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]] 
+#🌲 [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] 
