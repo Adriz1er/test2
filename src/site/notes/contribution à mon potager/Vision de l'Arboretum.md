@@ -11,7 +11,8 @@ Pour (re-)commencer, je vous conseille les principaux *groupements de concepts* 
 - [[contribution à mon potager/idées/philo\|philo]]
 - [[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]]
 - [[contribution à mon potager/publiée ou presque/problèmes auquels l'éducation nationale se doit de faire face\|problèmes auquels l'éducation nationale se doit de faire face]]
-- [[cours du lycée\|cours du lycée]]
+- [[contribution à mon potager/chimie\|chimie]]
+- [[contribution à mon potager/publiée ou presque/maths\|maths]]
 
 Pour **contribuer** au *développement* du site vous pouvez utiliser ce [dossier sur google drive](https://drive.google.com/drive/folders/13fDQYJpAMFO1uZ4wGbM7CLtyKeFkyEu1?usp=share_link) en ***commentant*** quelque chose sur un fichier ; n'hésitez pas à me contacter sur [mon twitter](https://twitter.com/AdrienRomano2)
 
