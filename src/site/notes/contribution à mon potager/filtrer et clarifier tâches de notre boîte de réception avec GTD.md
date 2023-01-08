@@ -15,5 +15,5 @@ Il faut rendre la tache **spécifique** et **exploitable**, donc ajouter des inf
 	Par exemple, “Appeler maman” peut être *insuffisant*, saisissez plutôt “Appeler maman pour *discuter du dîner d'anniversaire*”. 
 
 ---
-[[contribution à mon potager/publiée ou presque/Organisation\|Organisation]] [[Commun 2/GTD\|Commun 2/GTD]]
+[[contribution à mon potager/publiée ou presque/organisation\|organisation]] [[Commun 2/GTD\|Commun 2/GTD]]
 [Getting Things Done : un guide pas à pas](https://todoist.com/fr/productivity-methods/getting-things-done#clarifier)
