@@ -8,5 +8,5 @@ Par exemple : l'amélioration qu'on puisse trouver à *une [[Commun 2/note persi
 A noter que : [[contribution à mon potager/publiée ou presque/école utilise trop majoritairement la pensée convergente\|école utilise trop majoritairement la pensée convergente]], c'est pourquoi [[Les cours devraient être une ressource gérée plus intelligement par les élèves\|Les cours devraient être une ressource gérée plus intelligement par les élèves]]
 
 ---
-[[contribution à mon potager/publiée ou presque/Psychologie\|Psychologie]] #🌲 
+[[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] #🌲 
 [Qu'est-ce que la pensée convergente ? - Spiegato](https://spiegato.com/fr/quest-ce-que-la-pensee-convergente)
