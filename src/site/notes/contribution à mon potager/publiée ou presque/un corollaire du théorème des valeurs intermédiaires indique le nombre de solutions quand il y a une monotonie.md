@@ -10,4 +10,4 @@ Cela implique que si on connait les *intervalles* où une fonction $f$ est *mono
 alors on peut appliquer ce corollaire du théorème des valeurs intermaidiaires pour indiquer que pour tout réel $k$ compris entre $f(a)$ et $f(b)$, l'équation $f(x)=k$ admet une **unique** solution dans $[a;b]$.
 
 ---
-[[contribution à mon potager/publiée ou presque/maths\|maths]] #🌲 
+[[contribution à mon potager/publiée ou presque/mathématiques\|mathématiques]] #🌲 
