@@ -16,4 +16,4 @@ On a : $$L_{i,j}=\sum^{n_{k=1}a,ik \times}bk,j$$
 $$(A \times B) \times C= A \times (B \times C)$$*associatif*
 
 ---
-[[contribution à mon potager/publiée ou presque/maths\|maths]] #🌱 
+[[contribution à mon potager/publiée ou presque/mathématiques\|mathématiques]] #🌱 
