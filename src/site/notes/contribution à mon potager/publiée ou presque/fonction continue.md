@@ -9,4 +9,4 @@ Soient $f$ une fonction définie sur un intervalle $I$ et $a$ un réel app
 La *première caractéristique* implique que pour étudier la *continuité d'une fonction* en $a$, on doive (dans R) : calculer la limite de $f$ en $a$ pour $x<a$, et calculer la limite de $f$ en $a$ pour $x>a$ ; et comparer avec $f(a)$. Si $\lim_{x \to a \cap x > a}=\lim_{x \to a \cap x < a}=f(a)$ alors $f$ est **continue** en $a$.
 
 ---
-[[contribution à mon potager/publiée ou presque/maths\|maths]] #🌲 
+[[contribution à mon potager/publiée ou presque/mathématiques\|mathématiques]] #🌲 
