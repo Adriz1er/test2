@@ -10,4 +10,4 @@
 Ces propriétés impliquent lorsqu'elles sont vraies la [continuité](fonction continue) de la fonction sur l'intervalle auxquelles elles font références ; sauf dans ce cas pour **racine carré** qui est *strictement positive*, et si avec une **division** le *quotient* s'annule en $I$.
 
 ---
-[[contribution à mon potager/publiée ou presque/maths\|maths]] #🌲 
+[[contribution à mon potager/publiée ou presque/mathématiques\|mathématiques]] #🌲 
