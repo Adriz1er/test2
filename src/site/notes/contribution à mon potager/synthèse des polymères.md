@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/synthese-des-polymeres/"}
 ---
 
-Si une molécule A est capable de réagir sur une autre molécule B en formant un composé A-B capable de réagir à nouveau soit sur A soit sur B, alors le processus peut se répéter un grand nombre de fois. C'est une polymérisation. La molécule obtenue est alors appelée polymère.
+Si une molécule A est capable de réagir sur une autre molécule B en formant un composé A-B capable de réagir à nouveau soit sur A soit sur B, alors le processus peut se répéter un grand nombre de fois. C'est une *polymérisation*. La molécule obtenue est alors appelée polymère.
 ## Monomères et polymères
 On appelle monomère la (ou les) molécule(s) initiale(s) qui en réagissant sur elle(s)- même(s) constitue(nt) la macromolécule de polymère.
 
