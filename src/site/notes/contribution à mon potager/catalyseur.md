@@ -8,7 +8,7 @@ Il se note au-dessus de la flèche qui sert à écrire une transformation chimiq
 ## La catalyse homogène et hétérogène
 Une catalyse est *homogène* si le catalyseur et les réactifs sont dans la *même phase*. Lors d'une catalyse homogène, le catalyseur participe à la transformation. Il **disparaît** en début de transformation puis il est **régénéré** en fin de transformation.  
   
-Hétérogène si le catalyseur et les réactifs ne sont pas dans la même phase, ce qui signifie qu'il peut être extrait du mileu réactionnel
+Hétérogène si le catalyseur et les réactifs ne sont pas dans la même phase, ce qui signifie qu'il peut être extrait du mileu réactionnel ; cela peut se traduire par un état différent (solide, liquide ...).
 ## La catalyse enzymatique  
 De nombreuses transformations chimiques en biologie sont catalysées par des enzymes. Une enzyme est une protéine qui permet d'accélérer des transformations chimiques à une température *relativement* basse comme celle du corps humain (37 °C). Une enzyme est 1000 fois plus efficace qu'un [[contribution à mon potager/catalyseur\|catalyseur]] classique.  
   
