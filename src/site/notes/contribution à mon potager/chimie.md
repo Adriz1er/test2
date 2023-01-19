@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/chimie/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/chimie/"}
 ---
 
 #🏷️ 
