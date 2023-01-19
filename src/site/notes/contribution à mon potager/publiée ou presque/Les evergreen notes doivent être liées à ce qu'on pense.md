@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/les-evergreen-notes-doivent-etre-liees-a-ce-qu-on-pense/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/Les evergreen notes doivent être liées à ce qu'on pense/"}
 ---
 
 #🌲
