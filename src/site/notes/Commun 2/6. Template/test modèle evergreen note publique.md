@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commun-2/6-template/test-modele-evergreen-note-publique/"}
+{"dg-publish":true,"permalink":"/Commun 2/6. Template/test modèle evergreen note publique/"}
 ---
 
 #🌱 
