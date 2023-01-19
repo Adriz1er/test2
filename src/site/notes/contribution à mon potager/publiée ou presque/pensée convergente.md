@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/pensee-convergente/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/pensée convergente/"}
 ---
 
 Capacité à user de connaissances **nécéssaires** avec **rationalité** pour trouver précisément une *meilleure* solution par rapport à quelque chose de **précis** (voir aussi [[contribution à mon potager/publiée ou presque/Les notes persistantes doivent être atomique\|Les notes persistantes doivent être atomique]]).
