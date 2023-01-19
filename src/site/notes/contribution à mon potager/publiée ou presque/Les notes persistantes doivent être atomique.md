@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/les-notes-persistantes-doivent-etre-atomique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/Les notes persistantes doivent être atomique/"}
 ---
 
  #🌲 
