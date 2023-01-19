@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/contexte-de-notation/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/contexte de notation/"}
 ---
 
 pour réviser un contrôle on devrait se poser deux questions :
