@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/matrice-en-fonction-de-l-urgence-et-de-la-difficulte-est-adaptee-pour-prioriser-les-devoirs-a-l-ecole/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/matrice en fonction de l'urgence et de la difficulté est adaptée pour prioriser les devoirs à l'école/"}
 ---
 
 #🌲  [[contribution à mon potager/publiée ou presque/organisation\|organisation]] [[contribution à mon potager/publiée ou presque/adaptation de la pression des cours de l'éducation national\|adaptation de la pression des cours de l'éducation national]]
