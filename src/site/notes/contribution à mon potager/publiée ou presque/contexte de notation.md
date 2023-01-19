@@ -3,7 +3,9 @@
 ---
 
 pour réviser un contrôle on devrait se poser deux questions :
-- Pour quels résultats suis-je engagé ? (prendre l'arc) ^064c3d
+- Pour quels résultats suis-je engagé ? (prendre l'arc)
+{ #064c3d}
+
 - Quelle est la prochaine action à faire ? (viser)
 
 ---
