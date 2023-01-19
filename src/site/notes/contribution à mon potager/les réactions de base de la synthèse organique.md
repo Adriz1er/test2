@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/les-reactions-de-base-de-la-synthese-organique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/les réactions de base de la synthèse organique/"}
 ---
 
 Du fait de la grande réactivité des espèces chimiques de nombreux types de transformations sont faisables au laboratoire.
