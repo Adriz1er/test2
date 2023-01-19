@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/filtrer-et-clarifier-taches-de-notre-boite-de-reception-avec-gtd/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/filtrer et clarifier tâches de notre boîte de réception avec GTD/"}
 ---
 
 Les actions concrètes de la méthode **GTD** sont :
