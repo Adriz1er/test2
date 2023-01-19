@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/espace-creatif/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/espace créatif/"}
 ---
 
 C'est passer d'une idée produite par la [[contribution à mon potager/publiée ou presque/pensée divergente\|pensée divergente]] à une [[contribution à mon potager/publiée ou presque/pensée convergente\|pensée convergente]] 
