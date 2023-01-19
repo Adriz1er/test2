@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/propriete-calculant-chaque-terme-d-une-suite-geometrique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/propriété calculant chaque terme d'une suite géométrique/"}
 ---
 
 ### démonstration
