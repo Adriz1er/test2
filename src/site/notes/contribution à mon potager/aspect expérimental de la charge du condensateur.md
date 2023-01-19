@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/aspect-experimental-de-la-charge-du-condensateur/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/aspect expérimental de la charge du condensateur/"}
 ---
 
 L'association en série d'un condensateur de capacité C (voir [[contribution à mon potager/capacité du condensateur\|capacité du condensateur]]) et d'un conducteur ohmique de résistance R constitue un dipôle (R,C).
