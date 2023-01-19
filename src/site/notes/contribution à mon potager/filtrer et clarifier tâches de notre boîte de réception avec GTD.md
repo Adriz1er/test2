@@ -3,7 +3,7 @@
 ---
 
 Les actions concrètes de la méthode **GTD** sont :
-- Si l'élément prend moins de 2 minutes, le faire immédiatement.
+- Si l'élément prend moins de 2 minutes, le faire immédiatement (voir [[contribution à mon potager/idées/règle des deux minutes\|règle des deux minutes]])
 - S'il peut être délégué, attribuez la tâche à quelqu'un d'autre.
 - un élément de référence qu'on peut potentiellement doit être associé à un projet ou à une tache; en étant son commentaire ^c2beb5
 - Si l’élément doit être fait à une date et/ou à une heure spécifiques, donnez à la tâche une date d’échéance. ^31aac3
@@ -13,6 +13,8 @@ Les actions concrètes de la méthode **GTD** sont :
 
 Il faut rendre la tache **spécifique** et **exploitable**, donc ajouter des informations ( ce qui fait gagner du temps) (voir aussi commentaires de tâche)
 	Par exemple, “Appeler maman” peut être *insuffisant*, saisissez plutôt “Appeler maman pour *discuter du dîner d'anniversaire*”. 
+
+Pour prendre une décision, on a pas besoin de *temps* mais d'être **engagé** (voir [[contribution à mon potager/publiée ou presque/assumer efficacement ses engagements internes avec GTD\|assumer efficacement ses engagements internes avec GTD]]), c'est pourquoi on peut décider pour *deux ou trois* éléments **à la fois**.
 
 ---
 [[contribution à mon potager/publiée ou presque/organisation\|organisation]] [[Commun 2/GTD\|Commun 2/GTD]]
