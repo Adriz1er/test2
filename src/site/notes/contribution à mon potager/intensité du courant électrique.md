@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/intensite-du-courant-electrique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/intensité du courant électrique/"}
 ---
 
 Dans un métal le courant électrique est dû au déplacement des porteurs de charge que sont les électrons.
