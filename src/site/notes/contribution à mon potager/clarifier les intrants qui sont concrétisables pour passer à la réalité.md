@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/clarifier-les-intrants-qui-sont-concretisables-pour-passer-a-la-realite/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/clarifier les intrants qui sont concrétisables pour passer à la réalité/"}
 ---
 
 ## les intrants *concrétisables* 
