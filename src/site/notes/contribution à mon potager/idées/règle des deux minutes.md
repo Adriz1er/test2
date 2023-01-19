@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/idees/regle-des-deux-minutes/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/idées/règle des deux minutes/"}
 ---
 
 Elle consiste dans le fait que si une *tâche* prend **moins de deux minutes** (donc trop de temps pour y appliquer les [[contribution à mon potager/5 étapes de GTD\|5 étapes de GTD]]) elle doit être faite ***immédiatement***. Si elle prend plus de 2 minutes alors on peut soit :
