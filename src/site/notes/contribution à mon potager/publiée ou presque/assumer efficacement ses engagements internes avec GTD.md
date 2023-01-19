@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/assumer-efficacement-ses-engagements-internes-avec-gtd/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/assumer efficacement ses engagements internes avec GTD/"}
 ---
 
 gérer ses engagements en utilisant GTD implique :
