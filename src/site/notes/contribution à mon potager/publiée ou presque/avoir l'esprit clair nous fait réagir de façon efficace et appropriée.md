@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/avoir-l-esprit-clair-nous-fait-reagir-de-facon-efficace-et-appropriee/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/avoir l'esprit clair nous fait réagir de façon efficace et appropriée/"}
 ---
 
 Exemple : Un karatéka peut casser des briques à la main parce qu'il est précis
