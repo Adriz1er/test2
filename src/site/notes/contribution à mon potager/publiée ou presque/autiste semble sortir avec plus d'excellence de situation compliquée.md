@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/autiste-semble-sortir-avec-plus-d-excellence-de-situation-compliquee/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/autiste semble sortir avec plus d'excellence de situation compliquée/"}
 ---
 
 #🌲  [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]]
