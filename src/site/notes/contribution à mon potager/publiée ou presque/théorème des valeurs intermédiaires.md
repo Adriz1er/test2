@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/theoreme-des-valeurs-intermediaires/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/théorème des valeurs intermédiaires/"}
 ---
 
 Si $f$ est continue sur $[a;b]$ alors, pour tout réel $k$ compris entre $f(a)$ et $f(b)$, l'équation $f(x)=k$ admet **au moins** ***une solution*** dans $[a;b]$.
