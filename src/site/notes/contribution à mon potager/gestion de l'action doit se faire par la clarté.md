@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/gestion-de-l-action-doit-se-faire-par-la-clarte/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/gestion de l'action doit se faire par la clarté/"}
 ---
 
 Le fait est que l'on doit [[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]], et le fait est que [[contribution à mon potager/idées/la majorité des tâches sont en fait des projets\|la majorité des tâches sont en fait des projets]]
