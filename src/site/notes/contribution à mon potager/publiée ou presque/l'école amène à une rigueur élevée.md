@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/l-ecole-amene-a-une-rigueur-elevee/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/l'école amène à une rigueur élevée/"}
 ---
 
 #🌲  [[productivité\|productivité]] [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] [[école\|école]]
