@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/structure-organique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/structure organique/"}
 ---
 
 #🌲  [[nature\|nature]]
