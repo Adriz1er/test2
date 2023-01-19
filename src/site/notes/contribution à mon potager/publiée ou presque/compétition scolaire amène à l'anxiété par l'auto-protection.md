@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/competition-scolaire-amene-a-l-anxiete-par-l-auto-protection/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/compétition scolaire amène à l'anxiété par l'auto-protection/"}
 ---
 
 #🌲  [[contribution à mon potager/publiée ou presque/problèmes auxquels l'éducation nationale se doit de faire face\|problèmes auxquels l'éducation nationale se doit de faire face]]
