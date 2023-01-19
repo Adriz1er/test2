@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/une-personne-avec-autisme-perd-ses-centres-d-interets-en-utilisant-une-vision-utilitariste/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/une personne avec autisme perd ses centres d'intérêts en utilisant une vision utilitariste/"}
 ---
 
 Quand une personne avec [[Commun 2/autisme\|autisme]] a une *vision* [utilitariste](utilitarisme), mais puisque l'[[contribution à mon potager/utilitarisme est toujours synonyme d'anxiété\|utilitarisme est toujours synonyme d'anxiété]] alors l'[[contribution à mon potager/publiée ou presque/utilitarisme\|utilitarisme]] devient pour elle un **besoin fondamental** de la même manière qu'une [[personne avec autisme maximise ces centres d'intérêts spécifiques\|personne avec autisme maximise ces centres d'intérêts spécifiques]]. 
