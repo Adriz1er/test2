@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organiser-les-concepts-mathematiques-dans-une-structure-organique/"}
+{"dg-publish":true,"permalink":"/organiser les concepts mathématiques dans une structure organique/"}
 ---
 
 On peut voir qu'en **mathématiques** on a des concepts, et que à l'[[école\|école]] on les organise par *branche* certes mais surtout en les écrivant *les uns après les autres*. Et particulièrement en maths, ils n'ont de sens que si **on fait des exercices** ; or les exercices permettent de :
