@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/pensee-divergente/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/pensée divergente/"}
 ---
 
 C'est une *méthode* de pensée qui se produit dans un cadre **spontané** et **non-dirigé** ; on peut alors noter qu'une idée *créative* arrive aléatoirement. 
