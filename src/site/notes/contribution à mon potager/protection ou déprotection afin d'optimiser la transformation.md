@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/protection-ou-deprotection-afin-d-optimiser-la-transformation/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/protection ou déprotection afin d'optimiser la transformation/"}
 ---
 
 ## Nécessité de la protection 
