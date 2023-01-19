@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/la-musique-pousse-a-maitriser-sa-pensee-divergente/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/la musique pousse à maitriser sa pensée divergente/"}
 ---
 
 On peut voir que les caractères (marqués sur la partition par le *compositeur*) sont souvent associés à des *tempi* (pluriel de tempo), par exemple : *allegro con fuoco*
