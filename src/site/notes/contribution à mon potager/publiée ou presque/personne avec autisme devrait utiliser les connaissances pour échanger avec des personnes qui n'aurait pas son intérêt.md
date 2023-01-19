@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/personne-avec-autisme-devrait-utiliser-les-connaissances-pour-echanger-avec-des-personnes-qui-n-aurait-pas-son-interet/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/personne avec autisme devrait utiliser les connaissances pour échanger avec des personnes qui n'aurait pas son intérêt/"}
 ---
 
 #🌲  [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]]
