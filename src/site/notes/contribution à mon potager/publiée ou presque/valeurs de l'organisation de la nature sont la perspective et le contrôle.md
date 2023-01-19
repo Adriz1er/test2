@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/valeurs-de-l-organisation-de-la-nature-sont-la-perspective-et-le-controle/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/valeurs de l'organisation de la nature sont la perspective et le contrôle/"}
 ---
 
 #🌲  [[contribution à mon potager/publiée ou presque/organisation\|organisation]] [[nature\|nature]]
