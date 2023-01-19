@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/sens-de-variation-d-une-suite-arithmetique-et-d-une-suite-geometrique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/sens de variation d'une suite arithmétique et d'une suite géométrique/"}
 ---
 
 # Propriété
