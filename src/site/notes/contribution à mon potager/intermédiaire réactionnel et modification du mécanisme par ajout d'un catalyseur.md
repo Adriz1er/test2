@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/intermediaire-reactionnel-et-modification-du-mecanisme-par-ajout-d-un-catalyseur/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/intermédiaire réactionnel et modification du mécanisme par ajout d'un catalyseur/"}
 ---
 
 Un **intermédiaire réactionnel** est une *espèce* chimique très réactive qui est formée au cours d'un [[contribution à mon potager/acte élémentaires\|acte élémentaires]] et qui disparaît *très rapidement* lors d'un second. (Sa durée de vie est de l'ordre de $10^{-9}s$.
