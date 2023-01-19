@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/idees/faire-des-actions-a-chaud-avec-un-contexte-tout-en-suivant-ces-objectifs-avec-la-methode-gtd-grace-a-click-up/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/idées/faire des actions à chaud avec un contexte tout en suivant ces objectifs avec la méthode GTD grâce à ClickUp/"}
 ---
 
 Les critères pour faire une action à chaud sont :
