@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/optimiser-la-vitesse-de-formation-d-un-produit/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/Optimiser la vitesse de formation d'un produit/"}
 ---
 
 Que la transformation soit totale ou non, la vitesse de formation d'un produit peut être augmentée en jouant sur le fait que les [[contribution à mon potager/facteurs cinétiques peuvent influencer la vitesse volumique d'une transformation\|facteurs cinétiques peuvent influencer la vitesse volumique d'une transformation]].
