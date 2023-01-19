@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/sens-de-variation-d-une-suite/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/sens de variation d'une suite/"}
 ---
 
 1. la suite (voir [[contribution à mon potager/suite numérique\|suite numérique]]) $(u_{n}$) est **croissante** à partir du rang $n_{0}$ si pour tout entier naturel $n⩾n_{0}:u_{n+1} \geqslant u_{n}$
