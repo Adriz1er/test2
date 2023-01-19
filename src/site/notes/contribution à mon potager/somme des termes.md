@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/somme-des-termes/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/somme des termes/"}
 ---
 
 # Propriété
