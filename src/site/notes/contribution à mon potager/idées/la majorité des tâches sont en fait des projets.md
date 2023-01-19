@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/idees/la-majorite-des-taches-sont-en-fait-des-projets/"}
 ---
 
-la majorité des tâches nécessitent plus d'une étape, car on ne fait pas beaucoup de choses sans qu'il y ait une [[contribution à mon potager/idées/action suivante\|action suivante]] qu'on *doive* faire ensuite. 
+la majorité des tâches nécessitent plus d'une étape, car on ne fait pas beaucoup de choses sans qu'il y ait une [[contribution à mon potager/publiée ou presque/action suivante\|action suivante]] qu'on *doive* faire ensuite. 
 Cela signifie que la majorité des tâches sont des **projets** (comme chaque "*grand*" projet puisqu'elles hébergent elles aussi tous les éléments qui leurs sont associées).
 Ce qui signifie que l'on doit **identifier** l'action *suivante* pour faire avancer le projet. 
 
