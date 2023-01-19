@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/utilitarisme/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/utilitarisme/"}
 ---
 
 L'utilitarisme se définit par le fait qu'on doit systématiquement **affecter** (*donner par l'affecte*) le plus de ***bien-être*** (à des personnes), et dans les faits suit une [[moral\|moral]]
