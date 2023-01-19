@@ -11,5 +11,5 @@ Même quand la transformation est totale (taux d'avancement final  $\tau_{f}=1$)
 
 ---
 [[contribution à mon potager/stratégies de synthèse multi-étape\|stratégies de synthèse multi-étape]] #🌲 
+{ #ed3eaa}
 
-^ed3eaa
