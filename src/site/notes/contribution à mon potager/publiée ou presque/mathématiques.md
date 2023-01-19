@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/mathematiques/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/mathématiques/"}
 ---
 
 #🏷️ 
