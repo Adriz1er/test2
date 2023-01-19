@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/etude-de-la-fonction-logarithme-neperien/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/étude de la fonction logarithme népérien/"}
 ---
 
 On appelle [[contribution à mon potager/fonction logarithme népérien\|fonction logarithme népérien]] la fonction $f$ définie, pour tout $x\in]0;+\infty[$, par $f(x)=\ln(x)$.
