@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/etude-theorique-de-la-charge-du-condansateur/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/étude théorique de la charge du condansateur/"}
 ---
 
 La loi d'additivité des tensions donne : $u_{r}(t)+u_{c}(t)=E$ soit $Ri(t)+u_{c}(t)=E$. 
