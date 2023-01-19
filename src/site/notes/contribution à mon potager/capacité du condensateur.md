@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/capacite-du-condensateur/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/capacité du condensateur/"}
 ---
 
 À chaque instant, la charge $q_{A}$, du condensateur est proportionnelle à la tension $u_{C}$ à ses bornes :
