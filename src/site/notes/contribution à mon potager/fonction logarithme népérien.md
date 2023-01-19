@@ -12,4 +12,4 @@ On peut avoir un graphique quand on fait l'[[contribution à mon potager/étude 
 $e^{X}=a\iff X=\ln(a)$, pour cela il faut que $a>0$.
 
 ---
-#🌲 
+#🌲 [[contribution à mon potager/publiée ou presque/mathématiques\|mathématiques]]
