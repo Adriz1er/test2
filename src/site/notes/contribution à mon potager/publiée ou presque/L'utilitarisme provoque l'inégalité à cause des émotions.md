@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/l-utilitarisme-provoque-l-inegalite-a-cause-des-emotions/"}
 ---
 
-[[contribution à mon potager/idées/philo\|philo]] [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] #🌲  
+[[contribution à mon potager/idées/philosophie\|philosophie]] [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] #🌲  
 
 ---
 Un *état émotionnel* peut fortement briser l'égalité entre les individus sachant que l'[[contribution à mon potager/publiée ou presque/utilitarisme\|utilitarisme]] se soucie de la maximisation du bien-être
