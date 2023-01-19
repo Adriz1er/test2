@@ -6,4 +6,4 @@ Faire un calcul [utilitariste](utilitarisme) c'est se préoccuper sans cesse du 
 A noter que cela empêche l'accès au monde des idées (voir [[Excalidraw/le monde de la caverne\|le monde de la caverne]])
 
 ---
-#🌱 [[contribution à mon potager/idées/philo\|philo]] [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]]
+#🌱 [[contribution à mon potager/idées/philosophie\|philosophie]] [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]]
