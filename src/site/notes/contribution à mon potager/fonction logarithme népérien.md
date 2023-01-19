@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/fonction-logarithme-neperien/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/fonction logarithme népérien/"}
 ---
 
 Pour tout nombre $a$ strictement positif, on appelle *logorithme népérien* de $a$ l'unique solution réelle de l'équation $e^{x}=a\iff x=\ln(a)$
