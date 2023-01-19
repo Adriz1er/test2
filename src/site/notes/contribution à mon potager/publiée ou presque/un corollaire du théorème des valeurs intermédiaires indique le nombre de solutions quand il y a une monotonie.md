@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/un-corollaire-du-theoreme-des-valeurs-intermediaires-indique-le-nombre-de-solutions-quand-il-y-a-une-monotonie/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/un corollaire du théorème des valeurs intermédiaires indique le nombre de solutions quand il y a une monotonie/"}
 ---
 
 Un corollaire du [[contribution à mon potager/publiée ou presque/théorème des valeurs intermédiaires\|théorème des valeurs intermédiaires]] est que :
