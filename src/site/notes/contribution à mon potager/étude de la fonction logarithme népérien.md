@@ -17,4 +17,4 @@ Pour tous réels $a$ et $b$ *strictement positifs* :
 $a=b\iff \ln a=\ln b \text{ et }a>b\iff \ln(a)>\ln(b)$.
 
 ---
-#🌲 
+#🌲 [[contribution à mon potager/publiée ou presque/mathématiques\|mathématiques]]
