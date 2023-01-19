@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/fonction-continue/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/fonction continue/"}
 ---
 
 Soient $f$ une fonction définie sur un intervalle $I$ et $a$ un réel appartenant à $I$ ; avec les deux caractéristiques suivantes :
