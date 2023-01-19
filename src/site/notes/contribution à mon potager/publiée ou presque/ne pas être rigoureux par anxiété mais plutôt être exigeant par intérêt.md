@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/ne-pas-etre-rigoureux-par-anxiete-mais-plutot-etre-exigeant-par-interet/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/ne pas être rigoureux par anxiété mais plutôt être exigeant par intérêt/"}
 ---
 
 #🌲  [[contribution à mon potager/idées/philosophie\|philosophie]] [[école\|école]] [[contribution à mon potager/publiée ou presque/problèmes auxquels l'éducation nationale se doit de faire face\|problèmes auxquels l'éducation nationale se doit de faire face]]
