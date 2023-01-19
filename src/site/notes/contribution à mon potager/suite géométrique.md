@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/suite-geometrique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/suite géométrique/"}
 ---
 
 Une suite $(v_{n})$ est dite **géométrique** lorsqu'il existe un nombre réel non nul $q$ tel que, pour tout entier naturel $n$, $v_{n+1}=q \times v_{n}$. 
