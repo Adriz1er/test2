@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/critere-d-evaluation-du-rendement-d-une-synthese/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/Critère d'évaluation du rendement d'une synthèse/"}
 ---
 
 Le rendement permet d'évaluer l'*efficacité d'une synthèse*.
