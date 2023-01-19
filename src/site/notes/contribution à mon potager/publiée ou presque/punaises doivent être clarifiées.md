@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/punaises-doivent-etre-clarifiees/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/punaises doivent être clarifiées/"}
 ---
 
 Une punaise telle quelle est définie par [[@David Allen\|@David Allen]] est ce qui entre en contact [psychologiquement](psychologie.md) ou *physiquement*, et qui n'a rien à faire là mais qui surtout n'est ***pas précise***.
