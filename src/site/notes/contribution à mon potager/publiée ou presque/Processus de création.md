@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/processus-de-creation/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/Processus de création/"}
 ---
 
 Le processus de création se caractérise (du moins tel que nous le connaissons) par des stades mentaux :
