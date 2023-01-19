@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/catalyseur/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/catalyseur/"}
 ---
 
 Un catalyseur est une *espèce chimique* qui augmente la **vitesse de formation** d'un produit (que l'on peut calculer avec la [[contribution à mon potager/publiée ou presque/vitesse volumique\|vitesse volumique]]) ou de disparition d'un réactif au cours d'une *transformation* chimique. Il est ajouté en faible quantité. Le [[contribution à mon potager/catalyseur\|catalyseur]] participe à la *transformation* chimique réalisée mais il est retrouvé **intact** à la *fin* de celle-ci. 
