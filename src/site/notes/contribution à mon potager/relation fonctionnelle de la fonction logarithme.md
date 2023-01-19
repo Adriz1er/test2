@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/relation-fonctionnelle-de-la-fonction-logarithme/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/relation fonctionnelle de la fonction logarithme/"}
 ---
 
 # Propriété
