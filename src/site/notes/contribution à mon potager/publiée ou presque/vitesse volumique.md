@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/vitesse-volumique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/vitesse volumique/"}
 ---
 
 La [[contribution à mon potager/publiée ou presque/vitesse volumique\|vitesse volumique]] de *disparition* d'un réactif et d'*apparition* d'un produit est une grandeur exprimée en $mol.L^{-1}.s ^{-1}$ qui permet de quatifier la variation de la concentration d'un réactif  ou d'un produit en fonction du temps.
