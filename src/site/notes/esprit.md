@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/esprit/"}
 ---
 
-[[contribution à mon potager/idées/philo\|philo]] #☀️ 
+[[contribution à mon potager/idées/philosophie\|philosophie]] #☀️ 
 ___
 1. [[principe\|principe]] de penser 
 2. élément de nécessaire à la pensée
