@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/proprietes-sur-les-operations-impliquent-la-continuite-generalement-sur-l-intervalle-considere/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/propriétés sur les opérations impliquent la continuité généralement sur l'intervalle considéré/"}
 ---
 
 - Toute fonction **dérivable** sur un intervalle $I$ est continue sur $I$.
