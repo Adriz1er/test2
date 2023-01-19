@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/synthese-des-polymeres/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/synthèse des polymères/"}
 ---
 
 Si une molécule A est capable de réagir sur une autre molécule B en formant un composé A-B capable de réagir à nouveau soit sur A soit sur B, alors le processus peut se répéter un grand nombre de fois. C'est une *polymérisation*. La molécule obtenue est alors appelée polymère.
