@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/acte-elementaires/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/acte élémentaires/"}
 ---
 
 Un [[contribution à mon potager/acte élémentaires\|acte élémentaires]] est une "vraie" réaction pour laquelle l'équation traduit une réalité microscopique (à l'échelle des molécules).
