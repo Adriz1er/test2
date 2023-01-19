@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/amelioration-du-taux-d-avancement-final-d-une-synthese/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/Amélioration du taux d'avancement final d'une synthèse/"}
 ---
 
 Lorsqu'un système chimique est siège d'une transformation *non totale* (va vers son état d'équilibre), sa ***réaction inverse*** se produit simultanément **à la même vitesse**. Les concentrations des espèces présentes n'évoluent plus, le réactif limitant n'est pas entièrement consommé et $\tau_{f}<1$.
