@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/multiplacation-matrice/"}
+{"dg-publish":true,"permalink":"/multiplacation matrice/"}
 ---
 
 # Produit matriciel
