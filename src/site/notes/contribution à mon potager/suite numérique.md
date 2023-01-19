@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/suite-numerique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/suite numérique/"}
 ---
 
 Soit $n_{0}\in N$,
