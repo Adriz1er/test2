@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/fonctions-logarithmes-de-la-forme-ln-u/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/fonctions logarithmes de la forme ln(u)/"}
 ---
 
 Soit $u$ une fonction définie et dérivable sur un intervalle $I$ telle que , pour tout $x\in I$, $u(x)>0$. Alors la fonction $x \to \ln(u(x))$ (voir [[contribution à mon potager/fonction logarithme népérien\|fonction logarithme népérien]]) est dérivable sur $I$ et sa dérivée est la fonction :$$(\ln(u))'(x)=\frac{u'(x)}{u(x)}$$
