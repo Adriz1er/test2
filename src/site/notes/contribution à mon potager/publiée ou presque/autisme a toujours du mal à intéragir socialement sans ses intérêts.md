@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/autisme-a-toujours-du-mal-a-interagir-socialement-sans-ses-interets/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/autisme a toujours du mal à intéragir socialement sans ses intérêts/"}
 ---
 
 #🌲  [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]]
