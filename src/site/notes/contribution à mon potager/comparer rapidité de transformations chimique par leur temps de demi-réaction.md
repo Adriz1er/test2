@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/comparer-rapidite-de-transformations-chimique-par-leur-temps-de-demi-reaction/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/comparer rapidité de transformations chimique par leur temps de demi-réaction/"}
 ---
 
 Le temps de demi-réaction noté $t_{1/2}$ est la durée nécessaire, à partir de l'instant initial, pour que l'avancement atteigne la moitié de sa valeur finale. Plus le temps de demi-réaction est court, plus la transformation sera *rapide*. 
