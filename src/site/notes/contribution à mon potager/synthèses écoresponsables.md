@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/syntheses-ecoresponsables/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/synthèses écoresponsables/"}
 ---
 
 Les sociétés modernes ne peuvent se passer de substances chimiques mais de nouvelles problématiques doivent être prises en compte.
