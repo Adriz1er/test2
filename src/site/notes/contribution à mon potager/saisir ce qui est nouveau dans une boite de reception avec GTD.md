@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/saisir-ce-qui-est-nouveau-dans-une-boite-de-reception-avec-gtd/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/saisir ce qui est nouveau dans une boite de reception avec GTD/"}
 ---
 
 Le principe est de ***capturer*** **tout** ce qui nous *passe par la tête* (voir [[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]])- la boite de réception se doit de **stocker** ; ce qui nous ***intéresse*** sinon peu de chances qu'on n'y aurait *pensé*.
