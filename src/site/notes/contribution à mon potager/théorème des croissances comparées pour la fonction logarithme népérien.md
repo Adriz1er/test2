@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/theoreme-des-croissances-comparees-pour-la-fonction-logarithme-neperien/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/théorème des croissances comparées pour la fonction logarithme népérien/"}
 ---
 
 Pour tout entier naturel $n$ *strictement positif* :
