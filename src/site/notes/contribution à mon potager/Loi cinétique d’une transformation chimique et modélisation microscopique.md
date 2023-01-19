@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/loi-cinetique-d-une-transformation-chimique-et-modelisation-microscopique/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/Loi cinétique d’une transformation chimique et modélisation microscopique/"}
 ---
 
 #🏷️ 
