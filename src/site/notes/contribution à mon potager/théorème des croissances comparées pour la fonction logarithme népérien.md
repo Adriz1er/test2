@@ -4,4 +4,7 @@
 
 Pour tout entier naturel $n$ *strictement positif* :
 $\lim_{  x \to 0\cap x>0 }x^{n}\ln(x)=0$ et $\lim_{ x \to +\infty }\frac{\ln(x)}{x^{n}}=0$
-## méthode
+## méthode voir fonction logarithme leçon
+
+---
+[[contribution à mon potager/publiée ou presque/mathématiques\|mathématiques]] #🌱 
