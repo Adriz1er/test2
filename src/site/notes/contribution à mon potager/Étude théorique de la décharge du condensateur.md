@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/etude-theorique-de-la-decharge-du-condensateur/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/Étude théorique de la décharge du condensateur/"}
 ---
 
 La loi d'additivité des tensions donne : $u_{r}(t)+u_{c}(t)=0$ soit $Ri(t)+u_{c}(t)=0$.
