@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/contribution-a-mon-potager/amelioration-du-taux-d-avancement-final-d-une-synthese/"}
 ---
 
-Lorsqu'un système chimique est siège d'une transformation *non totale* (va vers son état d'équilibre), sa ***réaction inverse*** se produit simultanément **à la même vitesse**. Les concentrations des espèces présentes n'évoluent plus, le réactif limitant n'est pas entièrement consommé et $\tau_{f}<1$. ^119355
+Lorsqu'un système chimique est siège d'une transformation *non totale* (va vers son état d'équilibre), sa ***réaction inverse*** se produit simultanément **à la même vitesse**. Les concentrations des espèces présentes n'évoluent plus, le réactif limitant n'est pas entièrement consommé et $\tau_{f}<1$.
+{ #119355}
+
 
 Pour augmenter le rendement il faut augmenter le taux d'avancement final de la transformation, car les pertes manipulatoires peuvent être minimisées mais pas supprimées (voir [[contribution à mon potager/Critère d'évaluation du rendement d'une synthèse#^ed3eaa\|Critère d'évaluation du rendement d'une synthèse#^ed3eaa]])
 En augmentant la quantité de matière de l'un des réactifs, la probabilité d'avoir des *chocs efficaces* (voir [[contribution à mon potager/interprétation microscopique de l'influence des facteurs cinétiques#^44d8fb\|interprétation microscopique de l'influence des facteurs cinétiques#^44d8fb]]) entre les molécules de réactifs augmente et $\tau_{f}$ augmente.
