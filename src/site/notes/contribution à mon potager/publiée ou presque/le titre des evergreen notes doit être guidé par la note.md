@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/le-titre-des-evergreen-notes-doit-etre-guide-par-la-note/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/le titre des evergreen notes doit être guidé par la note/"}
 ---
 
 #🌲 [[Commun 2/note persistante\|note persistante]]
