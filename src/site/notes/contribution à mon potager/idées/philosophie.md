@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/idees/philosophie/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/idées/philosophie/"}
 ---
 
 #🏷️/🌱
