@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-maths-ne-doivent-pas-etre-separees-des-choses-qui-n-en-sont-pas-mais-plutot-permettre-d-exprimer-des-concepts/"}
+{"dg-publish":true,"permalink":"/les maths ne doivent pas être séparées des choses qui n'en sont pas mais plutôt permettre d'exprimer des concepts/"}
 ---
 
 Là où certains *concepts* comme la *relation de Chasles* se retrouvent dans plusieurs **branches des maths**, mais puisqu'[[organiser les concepts mathématiques dans une structure organique\|organiser les concepts mathématiques dans une structure organique]] alors on peut ***caractériser*** ce concept (notamment **avec** des *méthodes*). Mais cela montre que c'est possible pour n'importe quel concept "*méta-mathématiques*". Cela pourrait rapprocher *considérablement* les différentes **branches de mathématiques**, car cela permet une *nouvelle reflexion* (*sur les mathématiques*).
