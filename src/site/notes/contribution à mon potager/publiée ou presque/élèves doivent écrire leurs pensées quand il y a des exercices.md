@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/eleves-doivent-ecrire-leurs-pensees-quand-il-y-a-des-exercices/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/élèves doivent écrire leurs pensées quand il y a des exercices/"}
 ---
 
 #🌱 [[contribution à mon potager/publiée ou presque/adaptation de la pression des cours de l'éducation national\|adaptation de la pression des cours de l'éducation national]]
