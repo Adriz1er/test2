@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/formalisme-de-la-fleche-courte/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/formalisme de la flèche courte/"}
 ---
 
 Une flèche courte *symbolise* le **déplacement d'un doublet d'électrons** au cours d'un [[contribution à mon potager/acte élémentaires\|acte élémentaires]]. Elle part donc toujours d'un site *donneur* d'électrons possédant un doublet d'électrons vers un site *accepteur* d'électrons. Elle matérialise alors la rupture et la formation des liaisons.
