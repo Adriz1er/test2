@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/utilitarisme-est-toujours-synonyme-d-anxiete/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/utilitarisme est toujours synonyme d'anxiété/"}
 ---
 
 Faire un calcul [utilitariste](utilitarisme) c'est se préoccuper sans cesse du bien-être *des autres* c'est donc un *remue-ménage anxiogène* (voir [[différence entre anxiété et stress\|différence entre anxiété et stress]]) 
