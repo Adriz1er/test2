@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/loi-de-vitesse-d-ordre-1/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/loi de vitesse d'ordre 1/"}
 ---
 
 Soit une *transformation* modélisée par la réaction chimique d'équation : $$A \to B+C$$La concentration du réactif $A$ impliqué dans une *transformation* chimique suit une loi de vitesse d'ordre 1 si sa [[contribution à mon potager/publiée ou presque/vitesse volumique\|vitesse volumique]] de **disparition évolue proportionnellement à sa concentration**. Avec 
