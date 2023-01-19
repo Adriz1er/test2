@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/capteurs-capacitifs/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/capteurs capacitifs/"}
 ---
 
 Les capteurs capacitifs sont des condensateurs ouverts où règne un champ électrique entre le capteur et une paroi extérieure. Lorsqu'un objet entre dans la zone du capteur, le champ électrique est modifié et la capacité du condensateur est modifiée.
