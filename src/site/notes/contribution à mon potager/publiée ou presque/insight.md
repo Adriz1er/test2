@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/insight/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/insight/"}
 ---
 
 #🌲 [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] 
