@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/effet-capacitif/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/effet capacitif/"}
 ---
 
 Lorsque l'interrupteur K est fermé, la lampe s'allume puis s'éteint progressivement. Un courant a circulé dans le circuit malgré la présence de l'isolant entre les deux armatures.
