@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/l-utilitarisme-provoque-l-inegalite-a-cause-des-emotions/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/L'utilitarisme provoque l'inégalité à cause des émotions/"}
 ---
 
 [[contribution à mon potager/idées/philosophie\|philosophie]] [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] #🌲  
