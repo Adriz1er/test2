@@ -17,4 +17,4 @@ On utilise une propriété pour avoir accès à l'inconnue puis on résout l'éq
 Pour cela il faut transformer l'équation en composant avec la [[contribution à mon potager/fonction logarithme népérien\|fonction logarithme népérien]] (en se rappelant qu'elle est définie sur $]0;+\infty$)
 
 ---
-#🌲 
+#🌲 [[contribution à mon potager/publiée ou presque/mathématiques\|mathématiques]]
