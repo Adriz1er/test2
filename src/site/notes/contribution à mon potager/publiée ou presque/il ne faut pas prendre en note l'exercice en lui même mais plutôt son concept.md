@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contribution-a-mon-potager/publiee-ou-presque/il-ne-faut-pas-prendre-en-note-l-exercice-en-lui-meme-mais-plutot-son-concept/"}
+{"dg-publish":true,"permalink":"/contribution à mon potager/publiée ou presque/il ne faut pas prendre en note l'exercice en lui même mais plutôt son concept/"}
 ---
 
 #🌲  [[contribution à mon potager/publiée ou presque/adaptation de la pression des cours de l'éducation national\|adaptation de la pression des cours de l'éducation national]] [[école\|école]]
