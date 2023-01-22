@@ -9,7 +9,7 @@ On obtient l'équation
 différentielle de décharge du condensateur $0=R C \frac{d u c(t)}{d t}+u c(t)$
 Dans cette équation figurent la fonction $u_{c}(t)$ et sa dérivée par rapport au temps. C'est une équation différentielle du premier ordre (voir [[contribution à mon potager/loi de vitesse d'ordre 1\|loi de vitesse d'ordre 1]]) à coefficients constants (sans 2° membre) : $\frac{du_{c}}{dt}=-\frac{1}{RC}u_{c}$
 - La solution de cette équation : $u_{c}(t)=p \times e^{\frac{1}{RC}}$
-- la condition initiale à la date $t=0$, $u_{c}(0)=E=p$ (voir [[contribution à mon potager/lois d'électricités de bases#Loi des nœuds\|lois d'électricités de bases#Loi des nœuds]])
+- la condition initiale à la date $t=0$, $u_{c}(0)=E=p$ (voir [[contribution à mon potager/lois d'électricités de bases#Loi des mailles\|lois d'électricités de bases#Loi des mailles]])
 
 La solution de cette équation différentielle est $$u_{c}(t)=E \times e^{-\frac{t}{RC}}$$
 On peut montrer à la décharge,à $t=\tau$, 
