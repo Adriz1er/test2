@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/contribution à mon potager/Bienvenue sur mon site !/","tags":["gardenEntry"]}
 ---
 
-## Salut 👋, je suis Adrien et voici mon Jardin Digital 🌱
-Bienvenue sur mon site, 
+Je m'appelle Adrien, et je suis passioné par l'écriture de mes notes 📝
 
-j'utilise mes notes pour de *canaliser* mes pensées, afin que mes pensées puissent devenir des concepts **authentiques**. 
+J'écris mes *pensées* pour *cultiver* mes *idées*, c'est pourquoi j'applique la méthode **[Zettelkasten](https://everlaab.com/methode-zettelkasten-comment-prendre-des-notes-utiles/)** afin de *canaliser* mon [[esprit\|esprit]] 🤔
 
 Je vous suggère de jeter un *oeil* à l'[[contribution à mon potager/publiée ou presque/organisation\|organisation]] de mes notes, mais le fait est que vous devriez saisir (puis clarifier, ranger...) ce qui arrive dans vos pensées (et notamment [[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]]) en utilisant la méthode [[Commun 2/GTD\|GTD]].
 
@@ -23,3 +22,7 @@ Pour **contribuer** au *développement* du site vous pouvez utiliser ce [dossier
 L'ancien site est [ici](https://sage-cheesecake-6577.netlify.app)
 
 Vision de l'Arboretum 🏡
+
+et voici mon Jardin Digital 🌱
+
+ Salut 👋, je suis
