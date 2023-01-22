@@ -5,8 +5,6 @@
 ## Salut 👋, je suis Adrien et voici mon Jardin Digital 🌱
 Bienvenue sur mon site, j'utilise mes notes pour *canaliser* mes pensées, et pour qu'elles puissent devenir des concepts **authentiques**. 
 
-Pour (re-)commencer, je vous conseille les principaux *groupements de concepts* suivants :
-
 Je vous suggère de jeter un *oeil* à l'[[contribution à mon potager/publiée ou presque/organisation\|organisation]] de mes notes, mais le fait est que vous devriez saisir (puis clarifier, ranger...) ce qui arrive dans vos pensées (et notamment [[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]]) en utilisant la méthode [[Commun 2/GTD\|GTD]].
 
 Je trouve la [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] intéressante sur certains aspects que sont l'[[Commun 2/autisme\|autisme]] et ce qui n'en est pas, ce qui m'amène à réfléchir sur ce qu'est la [[neuro-typie\|neuro-typie]] ; la [[contribution à mon potager/idées/philosophie\|philosophie]] permet de prendre du recul sur tout cela. 
