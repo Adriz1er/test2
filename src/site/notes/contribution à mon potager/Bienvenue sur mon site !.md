@@ -20,9 +20,3 @@ Pour **contribuer** au *développement* du site vous pouvez utiliser ce [dossier
 
 
 L'ancien site est [ici](https://sage-cheesecake-6577.netlify.app)
-
-Vision de l'Arboretum 🏡
-
-et voici mon Jardin Digital 🌱
-
- Salut 👋, je suis
