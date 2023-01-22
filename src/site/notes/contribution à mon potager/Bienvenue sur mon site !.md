@@ -17,6 +17,3 @@ Pour **contribuer** au *développement* du site vous pouvez utiliser ce [dossier
 
 ---
 #🗺️
-
-
-L'ancien site est [ici](https://sage-cheesecake-6577.netlify.app)
