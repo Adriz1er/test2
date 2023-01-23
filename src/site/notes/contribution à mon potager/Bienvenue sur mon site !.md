@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/contribution à mon potager/Bienvenue sur mon site !/","tags":["gardenEntry"]}
 ---
 
-Je m'appelle Adrien, et je suis passioné par l'**écriture** de mes notes 📝
+Je m'appelle Adrien, et je suis passioné par l'**écriture** de mes notes📝
 
-J'écris mes *pensées* pour *cultiver* mes idées 💡, c'est pourquoi j'applique la méthode **[Zettelkasten](https://everlaab.com/methode-zettelkasten-comment-prendre-des-notes-utiles/)** afin de *canaliser* mon [[esprit\|esprit]] (voir [[contribution à mon potager/publiée ou presque/organisation\|organisation]] de mes notes).
+J'écris mes *pensées* pour *cultiver* mes idées💡, c'est pourquoi j'applique la méthode **[Zettelkasten](https://everlaab.com/methode-zettelkasten-comment-prendre-des-notes-utiles/)** afin de *canaliser* mon [[esprit\|esprit]] (voir [[contribution à mon potager/publiée ou presque/organisation\|organisation]] de mes notes).
 
 Le fait est que vous devriez saisir (puis clarifier, ranger...) ce qui arrive dans vos pensées (et notamment [[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]]) en utilisant la méthode [[Commun 2/GTD\|GTD]].
 
