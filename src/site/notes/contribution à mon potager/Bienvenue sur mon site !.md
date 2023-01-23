@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/contribution à mon potager/Bienvenue sur mon site !/","tags":["gardenEntry"]}
 ---
 
-Je m'appelle Adrien, et je suis passioné par l'écriture de mes notes 📝
+Je m'appelle Adrien, et je suis passioné par l'**écriture** de mes notes 📝
 
-J'écris mes *pensées* pour *cultiver* mes *idées*, c'est pourquoi j'applique la méthode **[Zettelkasten](https://everlaab.com/methode-zettelkasten-comment-prendre-des-notes-utiles/)** afin de *canaliser* mon [[esprit\|esprit]] 🤔
+J'écris mes *pensées* pour *cultiver* mes idées 💡, c'est pourquoi j'applique la méthode **[Zettelkasten](https://everlaab.com/methode-zettelkasten-comment-prendre-des-notes-utiles/)** afin de *canaliser* mon [[esprit\|esprit]] (voir [[contribution à mon potager/publiée ou presque/organisation\|organisation]] de mes notes).
 
-Je vous suggère de jeter un *oeil* à l'[[contribution à mon potager/publiée ou presque/organisation\|organisation]] de mes notes, mais le fait est que vous devriez saisir (puis clarifier, ranger...) ce qui arrive dans vos pensées (et notamment [[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]]) en utilisant la méthode [[Commun 2/GTD\|GTD]].
+Le fait est que vous devriez saisir (puis clarifier, ranger...) ce qui arrive dans vos pensées (et notamment [[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]]) en utilisant la méthode [[Commun 2/GTD\|GTD]].
 
 Je trouve la [[contribution à mon potager/publiée ou presque/psychologie\|psychologie]] intéressante sur certains aspects que sont l'[[Commun 2/autisme\|autisme]] et ce qui n'en est pas, ce qui m'amène à réfléchir sur ce qu'est la [[neuro-typie\|neuro-typie]] ; la [[contribution à mon potager/idées/philosophie\|philosophie]] permet de prendre du recul sur tout cela. 
 Je crois qu'il y a des [[contribution à mon potager/publiée ou presque/problèmes auxquels l'éducation nationale se doit de faire face\|problèmes auxquels l'éducation nationale se doit de faire face]], bien qu'étant en terminale (au lycée) avec mes deux "spécialités" qui sont :
