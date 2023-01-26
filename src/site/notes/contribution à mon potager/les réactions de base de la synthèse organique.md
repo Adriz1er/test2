@@ -13,6 +13,8 @@ Elles permettent d'**éliminer** un groupe d'atomes de la *molécule de départ*
 ## Modification de chaîne carbonée
 *Craquage du pétrole*: Le craquage catalytique est un processus dans lequel des *alcanes* à longue chaîne contenus dans le pétrole (qu'on appelle le naphta) se brisent lorsqu'ils sont portés à 500 °C environ en présence de [[contribution à mon potager/catalyseur\|catalyseur]]s platine-molybdène. Il en résulte un *alcane* et un *alcène* de masse molaire plus faible. $$\text{Naphta }\frac{\text{PT-Mo}}{500°\text{C, 2-3 atm}}\text{ Alcanes, alcènes}$$Ces *alcanes* et *alcènes* de faibles masses molaires servent ensuite de base à une très grande partie de l'industrie chimique.
 *Reformage* : Le reformage catalytique est un processus dans lequel le *naphta*, subit une déshydrogénation à 550 °C sous haute pression en présence de [[contribution à mon potager/catalyseur\|catalyseur]]s à base de platine. Il est aussi possible de **ramifier**(diviser) une chaîne carbonée par *reformage*.
+
+Rappel :$E=P \times\Delta t$
 ## Réaction d'oxydoréduction
 Elles permettent d'oxyder ou de réduire une fonction organique de la molécule de départ, à l'aide d'un oxydant ou d'un réducteur pour obtenir dans la molécule synthétisée, la fonction organique souhaitée (voir [[réaction acide-base\|réaction acide-base]]).
 
