@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution à mon potager/saisir ce qui est nouveau dans une boite de reception avec GTD/"}
 ---
 
-Le principe est de ***capturer*** **tout** ce qui nous *passe par la tête* (voir [[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]])- la boite de réception se doit de **stocker** ; ce qui nous ***intéresse*** sinon peu de chances qu'on n'y aurait *pensé*.
+Le principe est de ***capturer*** **tout** ce qui n'est pas à ça place et donc ce qui nous *passe par la tête* (voir [[clarifier les boucles ouvertes\|clarifier les boucles ouvertes]])- la boite de réception se doit de **stocker** ; ce qui nous ***intéresse*** sinon peu de chances qu'on n'y aurait *pensé* ; cela signifie que la boite de réception doit être traitée à court terme ; et donc qu'une **pile** d'*urgence* est à garder sous la main si il y a trop d'*anciens* intrants, et aussi traiter en priorité les derniers intrants arrivés
 C'est pourquoi il faut : 
 - *saisir immédiatement les choses*
 - avoir ***une seule*** boite de réception
@@ -10,9 +10,9 @@ C'est pourquoi il faut :
 - saisir le raisonnement dans une boite de reception, et se doit de constituer une **tâche**
 
 Il y a une liste de *déclics* (voir [[Mind_Sweep_Trigger_List.pdf]]) qui nous aide à sortir ce que l'on a à faire de notre tête.
-Puisque l'on doit [[contribution à mon potager/clarifier les intrants qui sont concrétisables pour passer à la réalité\|clarifier les intrants qui sont concrétisables pour passer à la réalité]], alors on sait que l'on a des tâches où l'on a pas encore d'[[contribution à mon potager/publiée ou presque/action suivante\|action suivante]] 
+Puisque l'on doit [[contribution à mon potager/clarifier les intrants qui sont concrétisables pour passer à la réalité\|clarifier les intrants qui sont concrétisables pour passer à la réalité]], alors on sait que l'on a des tâches où l'on aura des [[contribution à mon potager/publiée ou presque/action suivante\|action suivante]] à préciser, c'est pourquoi il vaut mieux d'emblée mettre un élément par feuille, c'est pourquoi je vais utiliser [[Notion\|Notion]]
 
-On peut avec [[Clickup\|Clickup]] faire des liens entre les tâches (malheureusement ce n'est pas disponible sur mobile, alors il faudra mettre un commentaire à cette tâche ou l'indiquer dans la description)
+On peut avec [[Clickup\|Clickup]] faire des liens entre les tâches (avec [[Notion\|Notion]] ?)
 
 ---
 #🌲 [[contribution à mon potager/publiée ou presque/organisation\|organisation]] [[Commun 2/GTD\|Commun 2/GTD]]
