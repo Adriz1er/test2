@@ -16,12 +16,14 @@ $$
 C'est une grandeur sans dimension.
 Pour alléger les notations des quotients de réaction en solution aqueuse les activités du solvant et des solides, qui sont égales à 1, ne sont pas écrites.
 
+
 En **solution aqueuse**, le quotient de réaction de la réaction à un instant $t$ : $aA_{(aq)}+bH_{2}O_{(l)}{\displaystyle \rightleftarrows }cC_{(aq)}+dD_{(aq)}+eE_{(s)}$ a por expression : 
 $$
 Q_{r}=\frac{[C]^{c}[D]^{d}(c^{0})^{a}}{[A]^{a}(c^{0})^{c}(c^{0})^{d}}=\frac{[C]^{c}[D]^{d}(c^{0})^{a}}{[A]^{a}(c^{0})^{c+d}}
 $$
-	si on a un calcul en $mol.L^{-1}$, l'expression du quotient de réaction peut être simplifiée : 
-	$$Q_{r}=\frac{[C]^{c}[D]^{d}}{[A]^{a}}$$
+si on a un calcul en $mol.L^{-1}$, l'expression du quotient de réaction peut être simplifiée : 
+$$Q_{r}=\frac{[C]^{c}[D]^{d}}{[A]^{a}}$$
+
 ## constante d'équilibre
 Lorsqu'un système siège d'une transformation non totale^[[[réaction partielle et équilibre chimique\|[réaction partielle et équilibre chimique]]] atteint un état d'équilibre^[[[évolution d'un système#quotient de réaction\|[évolution d'un système#quotient de réaction]]], son quotient de réaction est égal à la **constante d'équilibre** notée $K$.
 $$K=Q_{r,éq}=Q_{r,f}$$
