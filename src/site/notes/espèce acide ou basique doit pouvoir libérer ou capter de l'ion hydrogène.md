@@ -23,7 +23,7 @@ En représentant l'*acidité* ou la *basicité* (l'ion hydrogène n'est **pas** 
 
 Une **espèce acide** ou une **espèce basique** en *libérant ou en captant* se transforment en une ***base conjuguée*** ou un ***acide conjuguée*** ; on peut voir ça dans une [[réaction acide-base\|réaction acide-base]]
 
-A noter : qu'il existe des espèces **amphotères** : une espèce X qui peut se **comporter** comme un *acide* ou comme une *base*
+A noter : qu'il existe des espèces **amphotères** (comme l'eau^[[[produit ionique de l'eau#autoprotolyse de l'eau\|[produit ionique de l'eau#autoprotolyse de l'eau]]]) : une espèce X qui peut se **comporter** comme un *acide* ou comme une *base*
 
 ---
 [[contribution à mon potager/chimie\|chimie]]
