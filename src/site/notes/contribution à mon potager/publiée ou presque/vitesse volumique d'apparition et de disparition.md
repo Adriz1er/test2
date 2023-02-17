@@ -14,4 +14,4 @@ $V_{A(X)} \text{ en  mol.L}^{-1}.s^{-1}$
 Pour le réactif $R$ dont la concentration est notée $[R](t)$ et la quantité de matière $n_{p}(t)$, la vitesse volumique de disparition sera exprimée avec la formule : $$v_{f}=-\frac{1}{V}\frac{dn_{R}(t)}{dt}= -\frac{d[R](t)}{dt}$$Au cours du temps la quantité de matière du réactif $n_{R}$ diminue donc $\frac{d[R](t)}{dt}$ est *négatif*. Or la vitesse est toujours positive ce qui justifie la présence du signe "$-$".
 
 ---
-[[contribution à mon potager/Suivi temporel et modélisation macroscopique\|Suivi temporel et modélisation macroscopique]] #🌲 
+[[contribution à mon potager/Suivi temporel et modélisation macroscopique\|Suivi temporel et modélisation macroscopique]] #🌲 [[contribution à mon potager/chimie\|chimie]]
