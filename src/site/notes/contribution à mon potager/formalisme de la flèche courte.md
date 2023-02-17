@@ -10,4 +10,4 @@ Peut être un doublet non liant. Il est associé à un atome possédant une cha
 peut être un doublé liant appartenant à une liaison multiple (double liaison C=C, double liaison C = O)|parce qu'il possède un atome portant une charge entière plus ou partielle positive $\delta^{+}$
 
 ---
-[[contribution à mon potager/Loi cinétique d’une transformation chimique et modélisation microscopique\|Loi cinétique d’une transformation chimique et modélisation microscopique]] #🌲 
+[[contribution à mon potager/Loi cinétique d’une transformation chimique et modélisation microscopique\|Loi cinétique d’une transformation chimique et modélisation microscopique]] #🌲 [[contribution à mon potager/chimie\|chimie]]
