@@ -6,7 +6,7 @@ Si la réaction du support du titrage met en jeu des ions, on peut repérer l'é
 
 On peut interpréter la *courbe du titrage* en utilisant la ***loi de Kolhrausch***^[[[conductivité et conductance#loi de Kohlrausch\|[conductivité et conductance#loi de Kohlrausch]]]
 
-On peut déterminer le volume à l'équivalence en traçant deux *tangeantes* : une avant et une après le **l'équivalence**. Leurs points d'intersection donnera *volume à l'équivalence*.
+On peut déterminer le volume à l'équivalence en traçant deux *fonction affines moyennes* : une avant et une après le **l'équivalence**. Leurs points d'intersection donnera *volume à l'équivalence*.
 
 ---
 [[contribution à mon potager/chimie\|chimie]]
