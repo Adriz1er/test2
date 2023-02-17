@@ -7,4 +7,4 @@ Tous les chocs ne mènent pas à des *chocs efficaces* (voir [[contribution à m
 ![chocs efficaces et facteurs cinétiques.png](/img/user/chocs%20efficaces%20et%20facteurs%20cin%C3%A9tiques.png)
 
 ---
-#🌲  [[contribution à mon potager/Loi cinétique d’une transformation chimique et modélisation microscopique\|Loi cinétique d’une transformation chimique et modélisation microscopique]]
+#🌲  [[contribution à mon potager/Loi cinétique d’une transformation chimique et modélisation microscopique\|Loi cinétique d’une transformation chimique et modélisation microscopique]] [[contribution à mon potager/chimie\|chimie]]
