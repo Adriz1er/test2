@@ -3,10 +3,16 @@
 ---
 
 Le potentiel hydrogène mesure l'*activité des ions hydrogène* (ou plutôt hydrons (couramment appelés protons)) lors {d'une **solution**}. Dans une **une solution aqueuse**, ces ions sont présents en ==ion oxonium== (ou *ion  hydronium*).
-On considérera le pH avec la relation suivante en fonction de la **concentration** en ion *oxonium* :==$$
+On considérera le pH avec la relation suivante en fonction de la **concentration** en ion *oxonium* : 
+$$
 pH=-log(\dfrac{[H_3O^+]}{c^0})
-$$== 
-	soit $$
+$$
+{ #ddd2fa}
+
+
+soit $$
+
+
 \iff log(10^{-pH})= log(\dfrac{[H_3O^+]}{c^0})
 $$
 on a :
