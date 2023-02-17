@@ -15,4 +15,4 @@ De nombreuses transformations chimiques en biologie sont catalysées par des enz
 Les enzymes peuvent intervenir dans la fermentation alcoolique (transformation du sucre en éthanol), l'hydrolyse du sucre (saccharose) en glucose et fructose, l'isomérisation du rétinal (qui intervient dans le mécanisme de la vision), la décom- position de l'amidon durant la digestion par la salive, etc.  
 
 ---
-[[contribution à mon potager/Suivi temporel et modélisation macroscopique\|Suivi temporel et modélisation macroscopique]] #🌲 
+[[contribution à mon potager/Suivi temporel et modélisation macroscopique\|Suivi temporel et modélisation macroscopique]] #🌲 [[contribution à mon potager/chimie\|chimie]]
