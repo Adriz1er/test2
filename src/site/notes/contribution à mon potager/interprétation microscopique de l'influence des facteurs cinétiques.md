@@ -11,4 +11,4 @@ Les chocs efficaces sont le *nombre* de chocs qui mènent à la transformation c
 Au niveau microscopique, si les réactions sont écrites par [[contribution à mon potager/acte élémentaires\|acte élémentaires]], on peut alors considérer que les réactions se produisent par une *succession* de choc efficace pour un choc efficace entre deux espèces chimiques engagées dans un processus élémentaire permet de former des espèces réactives ou des produits de la réaction. 
 
 ---
-[[contribution à mon potager/Loi cinétique d’une transformation chimique et modélisation microscopique\|Loi cinétique d’une transformation chimique et modélisation microscopique]] #🌲 
+[[contribution à mon potager/Loi cinétique d’une transformation chimique et modélisation microscopique\|Loi cinétique d’une transformation chimique et modélisation microscopique]] #🌲 [[contribution à mon potager/chimie\|chimie]]
