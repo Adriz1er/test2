@@ -3,4 +3,4 @@
 ---
 
 #🏷️ 
-[chapitre 5](https://www.libmanuels.fr/reader/9791035813819/n/112) de [[contribution à mon potager/chimie\|chimie]] en terminale
+[chapitre 5](https://www.libmanuels.fr/reader/9791035813819/n/112) de chimie en terminale
