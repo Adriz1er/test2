@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution à mon potager/loi de vitesse d'ordre 1/"}
 ---
 
-Soit une *transformation* modélisée par la réaction chimique d'équation : $$A \to B+C$$La concentration du réactif $A$ impliqué dans une *transformation* chimique suit une loi de vitesse d'ordre 1 si sa [[contribution à mon potager/publiée ou presque/vitesse volumique\|vitesse volumique]] de **disparition évolue proportionnellement à sa concentration**. Avec 
+Soit une *transformation* modélisée par la réaction chimique d'équation : $$A \to B+C$$La concentration du réactif $A$ impliqué dans une *transformation* chimique suit une loi de vitesse d'ordre 1 si sa [[contribution à mon potager/publiée ou presque/vitesse volumique d'apparition et de disparition\|vitesse volumique d'apparition et de disparition]] de **disparition évolue proportionnellement à sa concentration**. Avec 
 - $v_{d}$ : la **vitesse de disparition du réactif** $A$ en $mol.L^{-1}.s ^{-1}$
 - $k$ : constante de *vitesse*
 - $[A] \text{ en } mol.L^{-1}$
