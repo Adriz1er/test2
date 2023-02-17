@@ -8,6 +8,8 @@ $$
 H_{2}O_{(l)}+H_{2}O_{(l)}{\displaystyle \rightleftarrows }H_{3}O^{+}_{(aq)}+HO^{-}_{(aq)}
 $$
 On note sa constante d'équilibre^[[[évolution d'un système#constante d'équilibre\|[évolution d'un système#constante d'équilibre]]] : 
+{ #46e2a5}
+
 $$
 K_{eau}=K_{e}=\frac{[H_{3}O^{+}]_{éq}[HO^{-}]_{éq}}{(c^{0})^{2}}
 $$
