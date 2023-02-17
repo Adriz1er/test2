@@ -13,4 +13,4 @@ Dans le cas d'une transformation totale dont l'évolution de la concentration d'
 de la courbe d'abscisse $t_{1/2}$ et d'ordonnée $\frac{1}{2}C_{f}$, où $C_{f}$, est la valeur de la concentration *finale* en produit obtenu.
 
 ---
-[[contribution à mon potager/Suivi temporel et modélisation macroscopique\|Suivi temporel et modélisation macroscopique]] #🌲 
+[[contribution à mon potager/Suivi temporel et modélisation macroscopique\|Suivi temporel et modélisation macroscopique]] #🌲 [[contribution à mon potager/chimie\|chimie]]
