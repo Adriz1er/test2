@@ -13,4 +13,4 @@ Lorsque la température du système chimique augmente, la transformation chimiqu
 Plus la concentration des réactifs est grande, plus la transformation chimique est rapide. Plus la transformation chimique est rapide, plus la vitesse de disparition d'un réactif et la vitesse d'apparition d'un produit sont grandes, qu'on peut exprimer à l'aide de la [[contribution à mon potager/publiée ou presque/vitesse volumique d'apparition et de disparition\|vitesse volumique d'apparition et de disparition]].  
 
 ---
-[[contribution à mon potager/Suivi temporel et modélisation macroscopique\|Suivi temporel et modélisation macroscopique]] #🌲 
+[[contribution à mon potager/Suivi temporel et modélisation macroscopique\|Suivi temporel et modélisation macroscopique]] #🌲 [[contribution à mon potager/chimie\|chimie]]
