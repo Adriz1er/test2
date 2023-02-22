@@ -6,6 +6,9 @@
 Le rôle du vecteur position $\overrightarrow{OM}$ est de définir la position d'un point à un instant $t$ ; il relie **l'origine du repère au point** Les coordonnées $\binom{x}{y}$ du vecteur position correspondent aux coordonnées de la position d'un point
 $$\overrightarrow{OM} \begin{pmatrix} x(t)\\y(t)\\z(t)
 \end{pmatrix}$$
+{ #26bb81}
+
+
 Les expressions de $x$, $y$ et $z$ en fonction du temps $t$ sont appelées les  **équations horaires de la position**.
 # vecteur vitesse $\vec{v}(t)$
 Il a pour caractéristiques : 
@@ -26,6 +29,9 @@ A noter qu'on peut l'obtenir graphiquement.
 $$
 \vec{a}(t)=\frac{d\vec{v}}{dt}(t)
 $$
+{ #a31fb8}
+
+
 comme 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/contribution-a-mon-potager/publiee-ou-presque/cours-lycee/vecteur-position-vitesse-et-acceleration/#ae330b" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
