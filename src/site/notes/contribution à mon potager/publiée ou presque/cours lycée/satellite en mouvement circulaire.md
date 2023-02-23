@@ -27,3 +27,17 @@ $$
 \vec{v}=\sqrt{ G \frac{M}{r} }\vec{u}_{t}
 $$
 ### période de révolution d'un satellite en mouvement circulaire
+La **période de révolution** d'un satellite est la durée qu'il met pour faire un tour de l'astre attracteur dans le référentiel astrocentrique.
+
+Pour un mouvement circulaire de rayon $r$, la distance parcourue en un tour est $2 \pi r$. La norme $v$ (constante) de la vitesse du satellite est donc liée à sa période de révolution $T$ par la relation $v=\frac{2 \pi r}{T}$.
+Or on a vu que $v=\sqrt{ G \frac{M}{r} }$. Cela donne l'égalité $\frac{2\pi r}{T}=\sqrt{ G \frac{M}{r} }$.
+En prenant l'inverse, on obtient $\frac{T}{2\pi r}=\sqrt{ \frac{r}{GM} }$, ce qui donne : 
+$$
+T=2 \pi r \sqrt{ \frac{r}{GM} } \text{ soit encore } T=2\pi \sqrt{ \frac{r^{3}}{GM} }
+$$
+
+En élevant au carré la relation, on obtient $T^{2}=4\pi^{2} \frac{r^{3}}{GM}$, qui donne : 
+$$
+\frac{T^{2}}{r^{3}}=\frac{4\pi^{2}}{GM}
+$$
+Cette égalité est la ==troisième loi de Kepler==.
