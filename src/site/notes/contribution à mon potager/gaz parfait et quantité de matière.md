@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution à mon potager/gaz parfait et quantité de matière/"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-##### équation du gaz parfait
+# équation du gaz parfait
 Il existe une équation d'état simple qui décrit le modèle du gaz parfait :
 $p \times V=n \times R \times T$
 	V: volume (m³)
@@ -15,13 +10,8 @@ $p \times V=n \times R \times T$
 	p: pression du (Pascal) gaz
 	T: température (Kelvin)
 	n: quantité de matière (mole)
+{ #fa211a}
 
-
-
-  
-
-
-</div></div>
 
 ## volume molaire
 Le volume molaire des gaz $V_{m}$ est le volume par mole de gaz pour une température et une pression *données*. Il ne dépend pas du gaz considéré : c'est la **loi d'Avogadro-ampère**.
