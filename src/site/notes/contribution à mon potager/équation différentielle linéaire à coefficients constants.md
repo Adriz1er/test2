@@ -10,7 +10,7 @@ $$y'=-a y+b$$
 où $a$ et $b$ sont, des nombres réels avec $a$ non nul. En Physique-Chimie, $a$ sera toujours positif.
 ### Théorème
 Soit $I$ un intervalle de $R$ R $a$ et $b$ deux fonctions continues sur $I$. Il existe une et une seule solution vérifiant l'équation différentielle $y'=-a y+b$ et $y(x_{0})=0$ de la forme $y(x)=\lambda e^{-ax}+\mu$ avec $\mu$ et $\lambda$ deux constantes.
-(voir aussi [[contribution à mon potager/publiée ou presque/un corollaire du théorème des valeurs intermédiaires indique le nombre de solutions quand il y a une monotonie\|un corollaire du théorème des valeurs intermédiaires indique le nombre de solutions quand il y a une monotonie]])
+(voir aussi [[cours lycée/théorème des valeurs intermédiaires\|théorème des valeurs intermédiaires]])
 ## Propriétée
 Les solutions de l'équation précédentes sont les fonctions
 
