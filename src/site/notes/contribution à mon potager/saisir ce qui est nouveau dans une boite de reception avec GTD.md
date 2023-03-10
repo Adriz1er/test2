@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contribution à mon potager/saisir ce qui est nouveau dans une boite de reception avec GTD/"}
 ---
 
-Le principe est de ***capturer*** **tout** ce qui n'est pas à ça place et donc ce qui nous *passe par la tête*^[[[clarifier les boucles ouvertes\|[clarifier les boucles ouvertes]]] - la boite de réception se doit de **stocker** ; ce qui nous ***intéresse*** sinon peu de chances qu'on n'y aurait *pensé* ; cela signifie que la boite de réception doit être traitée à court terme (en utilisant la [[contribution à mon potager/règle des deux minutes 1\|règle des deux minutes 1]]) ; et donc qu'une **pile** d'*urgence* est à garder sous la main si il y a trop d'*anciens* intrants, et aussi traiter en priorité les derniers intrants arrivés
+Le principe est de ***capturer*** **tout** ce qui n'est pas à ça place et donc ce qui nous *passe par la tête*^[[[clarifier les boucles ouvertes\|[clarifier les boucles ouvertes]]] - la boite de réception se doit de **stocker** ; ce qui nous ***intéresse*** sinon peu de chances qu'on n'y aurait *pensé* ; cela signifie que la boite de réception doit être traitée à court terme (en utilisant la [[contribution à mon potager/règle des deux minutes\|règle des deux minutes]]) ; et donc qu'une **pile** d'*urgence* est à garder sous la main si il y a trop d'*anciens* intrants, et aussi traiter en priorité les derniers intrants arrivés
 C'est pourquoi il faut : 
 - *saisir immédiatement les choses*
 - avoir ***une seule*** boite de réception
