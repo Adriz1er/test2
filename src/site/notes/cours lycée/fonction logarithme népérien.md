@@ -18,7 +18,7 @@ La [[cours lycée/fonction logarithme népérien\|fonction logarithme népérien
 1. La [[cours lycée/fonction logarithme népérien\|fonction logarithme népérien]] est *strictement croissante* sur $]0;+\infty[$.
 2. De plus $\lim_{ x \to 0\cap x>0}\ln(x)=-\infty$ et $\lim_{ x \to +\infty }\ln(x)=+\infty$
 
-Pour plus de limites voir le [[contribution à mon potager/théorème des croissances comparées pour la fonction logarithme népérien\|théorème des croissances comparées pour la fonction logarithme népérien]].
+Pour plus de limites voir le [[cours lycée/limites et comparaison\|limites et comparaison]].
 #### Propriété
 Le *premier* point de la propriété précédente a pour conséquence la propriété suivante :
 
