@@ -6,7 +6,7 @@
 il faut déterminer les deux points suivants : 
 1. Quels sont les **projets** dont vous vous occupez et quels sont les *résultats* auxquels vous vous êtes engagé ?
 2. Quelle(s) est la (ou les) ***prochaine***(s) ***action***(s) à executer ?
-parce que la [[contribution à mon potager/gestion de l'action doit se faire par la clarté\|gestion de l'action doit se faire par la clarté]], c'est pourquoi la *prochaine action* doit être concrète (voir aussi [[contribution à mon potager/règle des deux minutes 1\|règle des deux minutes 1]])
+parce que la [[contribution à mon potager/gestion de l'action doit se faire par la clarté\|gestion de l'action doit se faire par la clarté]], c'est pourquoi la *prochaine action* doit être concrète (voir aussi [[contribution à mon potager/règle des deux minutes\|règle des deux minutes]])
 
 On ne peut donc en ce sens là ne pas remettre un intrant dans la boite de réception, et ne traiter que généralement un élément à la fois (exception alors avec le fait qu'en regroupant on arrive mieux à prendre une *décision*)
 ## les intrants *non concrétisables*
