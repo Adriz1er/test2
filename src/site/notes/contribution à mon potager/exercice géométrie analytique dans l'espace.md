@@ -20,5 +20,5 @@ dans un repère orthonormé $(O;\vec{i},\vec{j},\vec{k})$, on considère les ve
 3. En posant  $c=-3$ résoudre le système
 4. Montrer alors qu'une équation du plan passant par $A(1;1;1)$ et de vecteurs directeurs u et v est $3x+3y−3z−3=0$.
 ### mes réponses
-1. $\frac{1}{2}\neq \frac{3}{-1}$ (voir [[cours lycée/collinéairité des vecteurs\|collinéairité des vecteurs]])
+1. $\frac{1}{2}\neq \frac{3}{-1}$ (voir [[cours lycée/vecteurs de l'espace\|vecteurs de l'espace]])
 2. $$\begin{cases}1+3 \times 3+4 \times 4\\2a-b+c=0\end{cases}$$
