@@ -13,12 +13,13 @@ Je crois qu'il y a des [[contribution à mon potager/publiée ou presque/problè
 - la [[contribution à mon potager/physique\|physique]]-[[contribution à mon potager/chimie\|chimie]]
 - les [[contribution à mon potager/publiée ou presque/mathématiques\|mathématiques]]
 	- [[contribution à mon potager/maths expertes\|maths expertes]]
-- [[contribution à mon potager/histoire\|histoire]]
 
 Pour **contribuer** au *développement* du site vous pouvez utiliser ce [dossier sur google drive](https://drive.google.com/drive/folders/13fDQYJpAMFO1uZ4wGbM7CLtyKeFkyEu1?usp=share_link) en ***commentant*** quelque chose sur un fichier ; n'hésitez pas à me contacter sur [mon twitter](https://twitter.com/AdrienRomano2)
+
+
+Mon template notion pour pratiquer [[contribution à mon potager/GTD\|GTD]] : 
+[template Getting Things Done](https://abcrescent.notion.site/Getting-Things-Done-v1-327b789c9bcb45359c66c50592b0eea8)
 
 ---
 #🗺️
 
-Mon template notion pour pratiquer [[contribution à mon potager/GTD\|GTD]] : 
-[template Getting Things Done](https://abcrescent.notion.site/Getting-Things-Done-v1-327b789c9bcb45359c66c50592b0eea8)
